@@ -1,0 +1,74 @@
+[
+  {
+    "id": "LK-1",
+    "name": "Western",
+    "area_sqkm": 3720.39,
+    "center_lat": 6.834692,
+    "center_lng": 80.06675,
+    "other_names": "\u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0db6\u0dc3\u0dca\u0db1\u0dcf\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-2",
+    "name": "Central",
+    "area_sqkm": 5731.25,
+    "center_lat": 7.324022,
+    "center_lng": 80.717397,
+    "other_names": "\u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0db8\u0db0\u0dca\u200d\u0dba\u0db8 \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-3",
+    "name": "Southern",
+    "area_sqkm": 5544.92,
+    "center_lat": 6.218721,
+    "center_lng": 80.717092,
+    "other_names": "\u0ba4\u0bc6\u0ba9\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-4",
+    "name": "Northern",
+    "area_sqkm": 9036.49,
+    "center_lat": 9.136524,
+    "center_lng": 80.34433,
+    "other_names": "Nothern,\u0bb5\u0b9f \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-5",
+    "name": "Eastern",
+    "area_sqkm": 9636.66,
+    "center_lat": 7.746463,
+    "center_lng": 81.405301,
+    "other_names": "\u0b95\u0bbf\u0bb4\u0b95\u0bcd\u0b95\u0bc1 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-6",
+    "name": "North Western",
+    "area_sqkm": 8039.59,
+    "center_lat": 7.785644,
+    "center_lng": 80.109754,
+    "other_names": "\u0bb5\u0b9f \u0bae\u0bc7\u0bb2\u0bcd \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0dc0\u0dba\u0db9 \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-7",
+    "name": "North Central",
+    "area_sqkm": 10688.0,
+    "center_lat": 8.262907,
+    "center_lng": 80.680367,
+    "other_names": "\u0bb5\u0b9f \u0bae\u0ba4\u0bcd\u0ba4\u0bbf\u0baf \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0db8\u0dd0\u0daf \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-8",
+    "name": "Uva",
+    "area_sqkm": 8629.94,
+    "center_lat": 6.882412,
+    "center_lng": 81.216329,
+    "other_names": "\u0b8a\u0bb5\u0bbe \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0d8c\u0dc0 \u0db4\u0dc5\u0dcf\u0dad"
+  },
+  {
+    "id": "LK-9",
+    "name": "Sabaragamuwa",
+    "area_sqkm": 4944.81,
+    "center_lat": 6.76017,
+    "center_lng": 80.490859,
+    "other_names": "\u0b9a\u0baa\u0bb0\u0b95\u0bae\u0bc1\u0bb5 \u0bae\u0bbe\u0b95\u0bbe\u0ba3\u0bae\u0bcd,\u0dc3\u0db6\u0dbb\u0d9c\u0db8\u0dd4\u0dc0 \u0db4\u0dc5\u0dcf\u0dad"
+  }
+]

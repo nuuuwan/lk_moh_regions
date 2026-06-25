@@ -1,0 +1,2000 @@
+[
+  {
+    "district_id": "LK-11",
+    "region_name": "Battaramulla",
+    "centroid_lat": 6.901455,
+    "centroid_lng": 79.933163
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Boralesgamuwa",
+    "centroid_lat": 6.838697,
+    "centroid_lng": 79.902288
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Cmc",
+    "centroid_lat": 6.919993,
+    "centroid_lng": 79.867331
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Dehiwala",
+    "centroid_lat": 6.85841,
+    "centroid_lng": 79.875772
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Hanwella",
+    "centroid_lat": 6.922725,
+    "centroid_lng": 80.147156
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Homagama",
+    "centroid_lat": 6.854735,
+    "centroid_lng": 80.032597
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Kaduwela",
+    "centroid_lat": 6.904055,
+    "centroid_lng": 79.99178
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Kahathuduwa",
+    "centroid_lat": 6.794417,
+    "centroid_lng": 79.985817
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Kolonnawa",
+    "centroid_lat": 6.934657,
+    "centroid_lng": 79.91511
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Maharagama",
+    "centroid_lat": 6.853678,
+    "centroid_lng": 79.946768
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Moratuwa",
+    "centroid_lat": 6.78271,
+    "centroid_lng": 79.891084
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Nugegoda",
+    "centroid_lat": 6.890497,
+    "centroid_lng": 79.895417
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Padukka",
+    "centroid_lat": 6.833886,
+    "centroid_lng": 80.12193
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Piliyandala",
+    "centroid_lat": 6.795347,
+    "centroid_lng": 79.934007
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Pitakotte",
+    "centroid_lat": 6.881258,
+    "centroid_lng": 79.913055
+  },
+  {
+    "district_id": "LK-11",
+    "region_name": "Rathmalana",
+    "centroid_lat": 6.827059,
+    "centroid_lng": 79.878088
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Attanagalla",
+    "centroid_lat": 7.114278,
+    "centroid_lng": 80.110396
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Biyagama",
+    "centroid_lat": 6.96863,
+    "centroid_lng": 79.978536
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Divulapitiya",
+    "centroid_lat": 7.25385,
+    "centroid_lng": 80.00678
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Dompe",
+    "centroid_lat": 6.99065,
+    "centroid_lng": 80.098964
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Gampaha",
+    "centroid_lat": 7.071172,
+    "centroid_lng": 79.993466
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Ja-Ela",
+    "centroid_lat": 7.080623,
+    "centroid_lng": 79.902204
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Katana",
+    "centroid_lat": 7.229758,
+    "centroid_lng": 79.888069
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Kelaniya",
+    "centroid_lat": 6.970327,
+    "centroid_lng": 79.910265
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Mahara",
+    "centroid_lat": 7.029365,
+    "centroid_lng": 80.014436
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Minuwangoda",
+    "centroid_lat": 7.154634,
+    "centroid_lng": 79.978537
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Mirigama",
+    "centroid_lat": 7.224621,
+    "centroid_lng": 80.122616
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Negambo",
+    "centroid_lat": 7.211433,
+    "centroid_lng": 79.843604
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Ragama",
+    "centroid_lat": 7.035755,
+    "centroid_lng": 79.92778
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Seeduwa",
+    "centroid_lat": 7.151395,
+    "centroid_lng": 79.890323
+  },
+  {
+    "district_id": "LK-12",
+    "region_name": "Wattala",
+    "centroid_lat": 7.037736,
+    "centroid_lng": 79.876389
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Agalawatta",
+    "centroid_lat": 6.515278,
+    "centroid_lng": 80.174443
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Bandaragama",
+    "centroid_lat": 6.718675,
+    "centroid_lng": 79.976065
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Beruwala",
+    "centroid_lat": 6.48883,
+    "centroid_lng": 80.004725
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Bulathsinhala",
+    "centroid_lat": 6.647916,
+    "centroid_lng": 80.174233
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Horana",
+    "centroid_lat": 6.756307,
+    "centroid_lng": 80.055903
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Ingiriya",
+    "centroid_lat": 6.762397,
+    "centroid_lng": 80.151674
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Kalutara",
+    "centroid_lat": 6.592119,
+    "centroid_lng": 79.991661
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Madurawala",
+    "centroid_lat": 6.655785,
+    "centroid_lng": 80.058502
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Mathugama",
+    "centroid_lat": 6.514803,
+    "centroid_lng": 80.078479
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Palindanuwara",
+    "centroid_lat": 6.506189,
+    "centroid_lng": 80.274077
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Panadura",
+    "centroid_lat": 6.686496,
+    "centroid_lng": 79.943342
+  },
+  {
+    "district_id": "LK-13",
+    "region_name": "Walallawita",
+    "centroid_lat": 6.406837,
+    "centroid_lng": 80.187045
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Akurana",
+    "centroid_lat": 7.390807,
+    "centroid_lng": 80.618493
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Bambaradeniya",
+    "centroid_lat": 7.216095,
+    "centroid_lng": 80.544632
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Delthota",
+    "centroid_lat": 7.182757,
+    "centroid_lng": 80.700642
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Doluwa",
+    "centroid_lat": 7.164052,
+    "centroid_lng": 80.648465
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Ganga Ihala Korale",
+    "centroid_lat": 7.110969,
+    "centroid_lng": 80.51535
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Harispattuwa",
+    "centroid_lat": 7.328288,
+    "centroid_lng": 80.587681
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Hatharaliyadda",
+    "centroid_lat": 7.331515,
+    "centroid_lng": 80.48071
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Kandy Four Gravets & Gangawata Korale",
+    "centroid_lat": 7.272748,
+    "centroid_lng": 80.638475
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Kundasale",
+    "centroid_lat": 7.288489,
+    "centroid_lng": 80.722472
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Medadumbara",
+    "centroid_lat": 7.302645,
+    "centroid_lng": 80.800265
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Menikhinna",
+    "centroid_lat": 7.321173,
+    "centroid_lng": 80.697675
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Minipe",
+    "centroid_lat": 7.346853,
+    "centroid_lng": 80.949918
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Panvila",
+    "centroid_lat": 7.40972,
+    "centroid_lng": 80.740637
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Pasbage Korale",
+    "centroid_lat": 7.018302,
+    "centroid_lng": 80.536384
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Pathadumbara",
+    "centroid_lat": 7.348939,
+    "centroid_lng": 80.661453
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Pathahewaheta",
+    "centroid_lat": 7.230056,
+    "centroid_lng": 80.706684
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Poojapitiya",
+    "centroid_lat": 7.400504,
+    "centroid_lng": 80.566057
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Thumpane",
+    "centroid_lat": 7.366617,
+    "centroid_lng": 80.514324
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Udadumbara",
+    "centroid_lat": 7.329697,
+    "centroid_lng": 80.875354
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Udapalatha",
+    "centroid_lat": 7.128622,
+    "centroid_lng": 80.597318
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Udunuwara",
+    "centroid_lat": 7.23096,
+    "centroid_lng": 80.578245
+  },
+  {
+    "district_id": "LK-21",
+    "region_name": "Yatinuwara",
+    "centroid_lat": 7.28244,
+    "centroid_lng": 80.538114
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Ambanganga Korale",
+    "centroid_lat": 7.561412,
+    "centroid_lng": 80.677646
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Dambulla",
+    "centroid_lat": 7.875426,
+    "centroid_lng": 80.719412
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Galewela",
+    "centroid_lat": 7.778476,
+    "centroid_lng": 80.571076
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Laggala-Pallegama",
+    "centroid_lat": 7.555007,
+    "centroid_lng": 80.808892
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Matale",
+    "centroid_lat": 7.540367,
+    "centroid_lng": 80.629513
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Naula",
+    "centroid_lat": 7.687978,
+    "centroid_lng": 80.708127
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Pallepola",
+    "centroid_lat": 7.646668,
+    "centroid_lng": 80.598702
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Rattota",
+    "centroid_lat": 7.485902,
+    "centroid_lng": 80.686096
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Ukuwela",
+    "centroid_lat": 7.429044,
+    "centroid_lng": 80.637568
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Wilgamuwa",
+    "centroid_lat": 7.604317,
+    "centroid_lng": 80.929444
+  },
+  {
+    "district_id": "LK-22",
+    "region_name": "Yatawatta",
+    "centroid_lat": 7.549546,
+    "centroid_lng": 80.58882
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Ambagamuwa",
+    "centroid_lat": 6.94399,
+    "centroid_lng": 80.504549
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Bogawanthalawa",
+    "centroid_lat": 6.813029,
+    "centroid_lng": 80.674876
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Hanguranketha",
+    "centroid_lat": 7.157698,
+    "centroid_lng": 80.772225
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Kotagala",
+    "centroid_lat": 6.942671,
+    "centroid_lng": 80.627679
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Kothmale",
+    "centroid_lat": 7.039901,
+    "centroid_lng": 80.684402
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Lindula",
+    "centroid_lat": 6.868017,
+    "centroid_lng": 80.720209
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Maskeliya",
+    "centroid_lat": 6.821909,
+    "centroid_lng": 80.566832
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Mathurata",
+    "centroid_lat": 7.064934,
+    "centroid_lng": 80.785014
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Nawathispane",
+    "centroid_lat": 7.038318,
+    "centroid_lng": 80.606954
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Nuwara Eliya",
+    "centroid_lat": 6.92132,
+    "centroid_lng": 80.779328
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Nuwara Eliya Mc",
+    "centroid_lat": 6.968929,
+    "centroid_lng": 80.783215
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Ragala",
+    "centroid_lat": 7.031915,
+    "centroid_lng": 80.883147
+  },
+  {
+    "district_id": "LK-23",
+    "region_name": "Walapane",
+    "centroid_lat": 7.127843,
+    "centroid_lng": 80.887883
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Akmeemana",
+    "centroid_lat": 6.058994,
+    "centroid_lng": 80.28362
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Ambalangoda",
+    "centroid_lat": 6.222205,
+    "centroid_lng": 80.102702
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Baddegama",
+    "centroid_lat": 6.136843,
+    "centroid_lng": 80.220566
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Balapitiya",
+    "centroid_lat": 6.314303,
+    "centroid_lng": 80.051461
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Bentota",
+    "centroid_lat": 6.386503,
+    "centroid_lng": 80.055745
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Bope-Poddala",
+    "centroid_lat": 6.084356,
+    "centroid_lng": 80.2169
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Elpitiya",
+    "centroid_lat": 6.290249,
+    "centroid_lng": 80.186598
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Galle Four Gravets",
+    "centroid_lat": 6.053122,
+    "centroid_lng": 80.208393
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Gonapinuwala",
+    "centroid_lat": 6.166154,
+    "centroid_lng": 80.131491
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Habaraduwa",
+    "centroid_lat": 6.001053,
+    "centroid_lng": 80.320379
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Hikkaduwa",
+    "centroid_lat": 6.168113,
+    "centroid_lng": 80.096863
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Imaduwa",
+    "centroid_lat": 6.032721,
+    "centroid_lng": 80.357776
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Karandeniya",
+    "centroid_lat": 6.30108,
+    "centroid_lng": 80.100622
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Nagoda",
+    "centroid_lat": 6.199735,
+    "centroid_lng": 80.312902
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Neluwa",
+    "centroid_lat": 6.360282,
+    "centroid_lng": 80.410723
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Niyagama",
+    "centroid_lat": 6.30246,
+    "centroid_lng": 80.252335
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Rathgama",
+    "centroid_lat": 6.100956,
+    "centroid_lng": 80.157329
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Thawalama",
+    "centroid_lat": 6.292984,
+    "centroid_lng": 80.355567
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Welivitiya-Divithura",
+    "centroid_lat": 6.206319,
+    "centroid_lng": 80.180197
+  },
+  {
+    "district_id": "LK-31",
+    "region_name": "Yakkalamulla",
+    "centroid_lat": 6.106627,
+    "centroid_lng": 80.359402
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Akuressa",
+    "centroid_lat": 6.135023,
+    "centroid_lng": 80.440004
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Athuraliya",
+    "centroid_lat": 6.117274,
+    "centroid_lng": 80.508648
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Devinuwara",
+    "centroid_lat": 5.975571,
+    "centroid_lng": 80.614638
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Dickwella",
+    "centroid_lat": 5.984818,
+    "centroid_lng": 80.673769
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Hakmana",
+    "centroid_lat": 6.094867,
+    "centroid_lng": 80.650036
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Kamburupitiya",
+    "centroid_lat": 6.066358,
+    "centroid_lng": 80.56139
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Kirinda Puhulwella",
+    "centroid_lat": 6.046113,
+    "centroid_lng": 80.637133
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Kotapola",
+    "centroid_lat": 6.322681,
+    "centroid_lng": 80.539277
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Malimbada",
+    "centroid_lat": 6.019413,
+    "centroid_lng": 80.498265
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Matara Mc",
+    "centroid_lat": 5.953054,
+    "centroid_lng": 80.538768
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Matara Ps",
+    "centroid_lat": 5.968353,
+    "centroid_lng": 80.575033
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Mulatiyana",
+    "centroid_lat": 6.146927,
+    "centroid_lng": 80.586504
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Pasgoda",
+    "centroid_lat": 6.275917,
+    "centroid_lng": 80.608346
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Pitabeddara",
+    "centroid_lat": 6.23924,
+    "centroid_lng": 80.472711
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Thihagoda",
+    "centroid_lat": 6.009617,
+    "centroid_lng": 80.560306
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Weligama",
+    "centroid_lat": 5.967006,
+    "centroid_lng": 80.443914
+  },
+  {
+    "district_id": "LK-32",
+    "region_name": "Welipitiya",
+    "centroid_lat": 6.016565,
+    "centroid_lng": 80.438515
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Ambalantota",
+    "centroid_lat": 6.161098,
+    "centroid_lng": 80.963002
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Angunukolapeles",
+    "centroid_lat": 6.19316,
+    "centroid_lng": 80.85191
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Beliatta",
+    "centroid_lat": 6.051037,
+    "centroid_lng": 80.720544
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Hambantota",
+    "centroid_lat": 6.204873,
+    "centroid_lng": 81.121585
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Katuwana",
+    "centroid_lat": 6.263837,
+    "centroid_lng": 80.715709
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Lunugamvehera",
+    "centroid_lat": 6.332067,
+    "centroid_lng": 81.166348
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Okewela",
+    "centroid_lat": 6.130422,
+    "centroid_lng": 80.693099
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Sooriyawewa",
+    "centroid_lat": 6.29174,
+    "centroid_lng": 81.01411
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Tangalle",
+    "centroid_lat": 6.071591,
+    "centroid_lng": 80.826067
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Tissamaharama",
+    "centroid_lat": 6.380714,
+    "centroid_lng": 81.453725
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Walasmulla",
+    "centroid_lat": 6.1996,
+    "centroid_lng": 80.681765
+  },
+  {
+    "district_id": "LK-33",
+    "region_name": "Weeraketiya",
+    "centroid_lat": 6.172037,
+    "centroid_lng": 80.772005
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Chankanai",
+    "centroid_lat": 9.741712,
+    "centroid_lng": 79.945662
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Chavakachcheri",
+    "centroid_lat": 9.677008,
+    "centroid_lng": 80.190646
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Jaffna",
+    "centroid_lat": 9.66349,
+    "centroid_lng": 80.021338
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Karaveddy",
+    "centroid_lat": 9.77598,
+    "centroid_lng": 80.184317
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Kayts",
+    "centroid_lat": 9.616664,
+    "centroid_lng": 79.831833
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Kopay",
+    "centroid_lat": 9.737645,
+    "centroid_lng": 80.096594
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Nallur",
+    "centroid_lat": 9.668871,
+    "centroid_lng": 80.048436
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Point Pedro",
+    "centroid_lat": 9.644875,
+    "centroid_lng": 80.378188
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Sandilipay",
+    "centroid_lat": 9.750952,
+    "centroid_lng": 79.980452
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Tellipalai",
+    "centroid_lat": 9.78878,
+    "centroid_lng": 80.040562
+  },
+  {
+    "district_id": "LK-41",
+    "region_name": "Uduvil",
+    "centroid_lat": 9.744485,
+    "centroid_lng": 80.034377
+  },
+  {
+    "district_id": "LK-42",
+    "region_name": "Madhu",
+    "centroid_lat": 8.845824,
+    "centroid_lng": 80.225307
+  },
+  {
+    "district_id": "LK-42",
+    "region_name": "Mannar Town",
+    "centroid_lat": 8.990592,
+    "centroid_lng": 79.888907
+  },
+  {
+    "district_id": "LK-42",
+    "region_name": "Manthai West",
+    "centroid_lat": 9.027313,
+    "centroid_lng": 80.112093
+  },
+  {
+    "district_id": "LK-42",
+    "region_name": "Musalai",
+    "centroid_lat": 8.676536,
+    "centroid_lng": 80.020926
+  },
+  {
+    "district_id": "LK-42",
+    "region_name": "Nanattan",
+    "centroid_lat": 8.83685,
+    "centroid_lng": 79.992485
+  },
+  {
+    "district_id": "LK-43",
+    "region_name": "Cheddikulam",
+    "centroid_lat": 8.693165,
+    "centroid_lng": 80.296167
+  },
+  {
+    "district_id": "LK-43",
+    "region_name": "Vavuniya",
+    "centroid_lat": 8.833816,
+    "centroid_lng": 80.456461
+  },
+  {
+    "district_id": "LK-43",
+    "region_name": "Vavuniya North",
+    "centroid_lat": 9.002936,
+    "centroid_lng": 80.578753
+  },
+  {
+    "district_id": "LK-43",
+    "region_name": "Vavuniya South",
+    "centroid_lat": 8.733856,
+    "centroid_lng": 80.510969
+  },
+  {
+    "district_id": "LK-43",
+    "region_name": "Welioya",
+    "centroid_lat": 8.985349,
+    "centroid_lng": 80.749594
+  },
+  {
+    "district_id": "LK-44",
+    "region_name": "Mallavi",
+    "centroid_lat": 9.221339,
+    "centroid_lng": 80.286475
+  },
+  {
+    "district_id": "LK-44",
+    "region_name": "Manthai East",
+    "centroid_lat": 9.053687,
+    "centroid_lng": 80.30991
+  },
+  {
+    "district_id": "LK-44",
+    "region_name": "Mullaitivu",
+    "centroid_lat": 9.14361,
+    "centroid_lng": 80.796661
+  },
+  {
+    "district_id": "LK-44",
+    "region_name": "Oddusuddan",
+    "centroid_lat": 9.20078,
+    "centroid_lng": 80.532971
+  },
+  {
+    "district_id": "LK-44",
+    "region_name": "Puthukkudiyiruppu",
+    "centroid_lat": 9.313855,
+    "centroid_lng": 80.636692
+  },
+  {
+    "district_id": "LK-45",
+    "region_name": "Kandawalai",
+    "centroid_lat": 9.451642,
+    "centroid_lng": 80.488637
+  },
+  {
+    "district_id": "LK-45",
+    "region_name": "Kilinochchi",
+    "centroid_lat": 9.363992,
+    "centroid_lng": 80.335411
+  },
+  {
+    "district_id": "LK-45",
+    "region_name": "Palai",
+    "centroid_lat": 9.591585,
+    "centroid_lng": 80.356701
+  },
+  {
+    "district_id": "LK-45",
+    "region_name": "Poonakary",
+    "centroid_lat": 9.395242,
+    "centroid_lng": 80.165655
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Arayampathy",
+    "centroid_lat": 7.638083,
+    "centroid_lng": 81.753896
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Batticaloa",
+    "centroid_lat": 7.721828,
+    "centroid_lng": 81.687813
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Chenkalady",
+    "centroid_lat": 7.703677,
+    "centroid_lng": 81.480485
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Eravur",
+    "centroid_lat": 7.793248,
+    "centroid_lng": 81.615751
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Kaluwanchikudy",
+    "centroid_lat": 7.517823,
+    "centroid_lng": 81.791419
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Kattankudy",
+    "centroid_lat": 7.682527,
+    "centroid_lng": 81.731483
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Kiran",
+    "centroid_lat": 7.924843,
+    "centroid_lng": 81.49296
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Koralaipattu ( Oddmavadi Central )",
+    "centroid_lat": 7.896479,
+    "centroid_lng": 81.52437
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Ottamavadi",
+    "centroid_lat": 7.905581,
+    "centroid_lng": 81.546989
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Paddipalai",
+    "centroid_lat": 7.563989,
+    "centroid_lng": 81.65907
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Vakarai",
+    "centroid_lat": 8.085571,
+    "centroid_lng": 81.394527
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Valaichenai",
+    "centroid_lat": 7.855622,
+    "centroid_lng": 81.369917
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Vavunathivu",
+    "centroid_lat": 7.63249,
+    "centroid_lng": 81.600076
+  },
+  {
+    "district_id": "LK-51",
+    "region_name": "Vellaveli",
+    "centroid_lat": 7.498017,
+    "centroid_lng": 81.708049
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Addachchenai",
+    "centroid_lat": 7.266133,
+    "centroid_lng": 81.822078
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Akkaraipattu",
+    "centroid_lat": 7.209158,
+    "centroid_lng": 81.783288
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Alayadivembu",
+    "centroid_lat": 7.17371,
+    "centroid_lng": 81.806138
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Ampara",
+    "centroid_lat": 7.291532,
+    "centroid_lng": 81.597145
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Damana",
+    "centroid_lat": 7.125334,
+    "centroid_lng": 81.641047
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Dehiyathakandiya",
+    "centroid_lat": 7.621715,
+    "centroid_lng": 81.084627
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Irakkamam",
+    "centroid_lat": 7.242602,
+    "centroid_lng": 81.727707
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Kalmunai South ( Muslim Div )",
+    "centroid_lat": 7.414037,
+    "centroid_lng": 81.824921
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Kalnumai North ( Tamil Div )",
+    "centroid_lat": 7.418038,
+    "centroid_lng": 81.81152
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Karaithivu",
+    "centroid_lat": 7.372011,
+    "centroid_lng": 81.834069
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Lahugala",
+    "centroid_lat": 6.751722,
+    "centroid_lng": 81.699187
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Mahaoya",
+    "centroid_lat": 7.561151,
+    "centroid_lng": 81.348683
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Navithanveli",
+    "centroid_lat": 7.42677,
+    "centroid_lng": 81.763698
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Ninthavur",
+    "centroid_lat": 7.327276,
+    "centroid_lng": 81.840794
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Padiyathalawa",
+    "centroid_lat": 7.427631,
+    "centroid_lng": 81.260841
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Pottuvil",
+    "centroid_lat": 6.943233,
+    "centroid_lng": 81.801421
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Sainthamaruthu",
+    "centroid_lat": 7.389525,
+    "centroid_lng": 81.833201
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Sammanthurai",
+    "centroid_lat": 7.330242,
+    "centroid_lng": 81.765336
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Thirukkovil",
+    "centroid_lat": 7.094215,
+    "centroid_lng": 81.796951
+  },
+  {
+    "district_id": "LK-52",
+    "region_name": "Uhana",
+    "centroid_lat": 7.404125,
+    "centroid_lng": 81.591396
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Eachchilampatru",
+    "centroid_lat": 8.312837,
+    "centroid_lng": 81.359418
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Gomarankadawala",
+    "centroid_lat": 8.683455,
+    "centroid_lng": 80.994434
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Kanthale",
+    "centroid_lat": 8.345926,
+    "centroid_lng": 81.057222
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Kinniya",
+    "centroid_lat": 8.432567,
+    "centroid_lng": 81.164019
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Kuchchaveli",
+    "centroid_lat": 8.81629,
+    "centroid_lng": 81.043004
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Muthur",
+    "centroid_lat": 8.429544,
+    "centroid_lng": 81.29227
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Padavi Sri Pura",
+    "centroid_lat": 8.915209,
+    "centroid_lng": 80.852197
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Seruvila",
+    "centroid_lat": 8.29799,
+    "centroid_lng": 81.251456
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Thampalagamam",
+    "centroid_lat": 8.501033,
+    "centroid_lng": 81.042362
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Trincomalee",
+    "centroid_lat": 8.570236,
+    "centroid_lng": 81.227613
+  },
+  {
+    "district_id": "LK-53",
+    "region_name": "Uppuveli",
+    "centroid_lat": 8.58498,
+    "centroid_lng": 81.170393
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Alawwa",
+    "centroid_lat": 7.328914,
+    "centroid_lng": 80.217317
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Ambanpola",
+    "centroid_lat": 7.907984,
+    "centroid_lng": 80.223922
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Bamunukotuwa",
+    "centroid_lat": 7.546292,
+    "centroid_lng": 80.270274
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Bingiriya",
+    "centroid_lat": 7.606994,
+    "centroid_lng": 79.969096
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Galgamuwa",
+    "centroid_lat": 7.997599,
+    "centroid_lng": 80.296789
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Ganewatta",
+    "centroid_lat": 7.656627,
+    "centroid_lng": 80.369957
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Giribawa",
+    "centroid_lat": 8.104203,
+    "centroid_lng": 80.183704
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Ibbagamuwa",
+    "centroid_lat": 7.618183,
+    "centroid_lng": 80.47127
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Katupotha",
+    "centroid_lat": 7.550898,
+    "centroid_lng": 80.214074
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Kobeigane",
+    "centroid_lat": 7.684315,
+    "centroid_lng": 80.100893
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Kotawehera",
+    "centroid_lat": 7.864034,
+    "centroid_lng": 80.122993
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Kuliyapitiya",
+    "centroid_lat": 7.471778,
+    "centroid_lng": 80.101417
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Kurunegala",
+    "centroid_lat": 7.513417,
+    "centroid_lng": 80.35325
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Mahawa",
+    "centroid_lat": 7.80544,
+    "centroid_lng": 80.290572
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Mallawapitiya",
+    "centroid_lat": 7.466464,
+    "centroid_lng": 80.390766
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Maspotha",
+    "centroid_lat": 7.557052,
+    "centroid_lng": 80.324915
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Mawathagama",
+    "centroid_lat": 7.42511,
+    "centroid_lng": 80.446315
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Narammala",
+    "centroid_lat": 7.398001,
+    "centroid_lng": 80.193657
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Nikaweratiya",
+    "centroid_lat": 7.764239,
+    "centroid_lng": 80.091747
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Panduwasnuwara",
+    "centroid_lat": 7.58405,
+    "centroid_lng": 80.10197
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Pannala",
+    "centroid_lat": 7.362602,
+    "centroid_lng": 80.031342
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Polgahawela",
+    "centroid_lat": 7.374766,
+    "centroid_lng": 80.309739
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Polpithigama",
+    "centroid_lat": 7.803225,
+    "centroid_lng": 80.427557
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Rideegama",
+    "centroid_lat": 7.517402,
+    "centroid_lng": 80.518846
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Udubaddawa",
+    "centroid_lat": 7.480278,
+    "centroid_lng": 79.94713
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Wariyapola",
+    "centroid_lat": 7.661859,
+    "centroid_lng": 80.239593
+  },
+  {
+    "district_id": "LK-61",
+    "region_name": "Weerambugedara",
+    "centroid_lat": 7.465627,
+    "centroid_lng": 80.271793
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Anamaduwa",
+    "centroid_lat": 7.879957,
+    "centroid_lng": 79.960144
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Arachchikattuwa",
+    "centroid_lat": 7.680009,
+    "centroid_lng": 79.849219
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Chilaw",
+    "centroid_lat": 7.548853,
+    "centroid_lng": 79.85149
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Dankotuwa",
+    "centroid_lat": 7.320855,
+    "centroid_lng": 79.90604
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Kalpitiya",
+    "centroid_lat": 8.124325,
+    "centroid_lng": 79.741326
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Karuwalagaswewa",
+    "centroid_lat": 8.092582,
+    "centroid_lng": 80.022602
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Mahawewa",
+    "centroid_lat": 7.454821,
+    "centroid_lng": 79.851052
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Mundalama",
+    "centroid_lat": 7.859702,
+    "centroid_lng": 79.813887
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Nattandiya",
+    "centroid_lat": 7.395989,
+    "centroid_lng": 79.874087
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Pallama",
+    "centroid_lat": 7.72829,
+    "centroid_lng": 79.931597
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Puttalam",
+    "centroid_lat": 8.280536,
+    "centroid_lng": 79.900954
+  },
+  {
+    "district_id": "LK-62",
+    "region_name": "Wennappuwa",
+    "centroid_lat": 7.324422,
+    "centroid_lng": 79.85488
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Galenbidunuwawe",
+    "centroid_lat": 8.266309,
+    "centroid_lng": 80.70699
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Galnewa",
+    "centroid_lat": 8.019186,
+    "centroid_lng": 80.449899
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Horowpothana",
+    "centroid_lat": 8.512128,
+    "centroid_lng": 80.850715
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Ipalogama",
+    "centroid_lat": 8.085964,
+    "centroid_lng": 80.507896
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Kahatagasdigiliya",
+    "centroid_lat": 8.422779,
+    "centroid_lng": 80.711598
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Kebithigollewa",
+    "centroid_lat": 8.717666,
+    "centroid_lng": 80.7092
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Kekirawa",
+    "centroid_lat": 8.067231,
+    "centroid_lng": 80.659304
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Medawachchiya",
+    "centroid_lat": 8.588662,
+    "centroid_lng": 80.496945
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Mihintale",
+    "centroid_lat": 8.350022,
+    "centroid_lng": 80.543093
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Nochchiyagama",
+    "centroid_lat": 8.332175,
+    "centroid_lng": 80.124773
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Nuwaragam Palatha Central",
+    "centroid_lat": 8.491237,
+    "centroid_lng": 80.247194
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Nuwaragam Palatha East",
+    "centroid_lat": 8.283094,
+    "centroid_lng": 80.42571
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Padaviya",
+    "centroid_lat": 8.851858,
+    "centroid_lng": 80.7842
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Palagala",
+    "centroid_lat": 7.906174,
+    "centroid_lng": 80.5378
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Rajanganaya",
+    "centroid_lat": 8.18307,
+    "centroid_lng": 80.183654
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Rambewa",
+    "centroid_lat": 8.475726,
+    "centroid_lng": 80.550666
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Thalawa",
+    "centroid_lat": 8.184298,
+    "centroid_lng": 80.377227
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Thambuttegama",
+    "centroid_lat": 8.15555,
+    "centroid_lng": 80.316295
+  },
+  {
+    "district_id": "LK-71",
+    "region_name": "Thirappane",
+    "centroid_lat": 8.207994,
+    "centroid_lng": 80.549097
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Dimbulagala",
+    "centroid_lat": 7.78578,
+    "centroid_lng": 81.124905
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Elahera",
+    "centroid_lat": 7.810587,
+    "centroid_lng": 80.841885
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Hingurakgoda",
+    "centroid_lat": 8.108758,
+    "centroid_lng": 80.870878
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Lankapura",
+    "centroid_lat": 8.057275,
+    "centroid_lng": 81.094879
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Medirigiriya",
+    "centroid_lat": 8.184459,
+    "centroid_lng": 81.040259
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Thamankaduwa",
+    "centroid_lat": 7.875215,
+    "centroid_lng": 80.987135
+  },
+  {
+    "district_id": "LK-72",
+    "region_name": "Welikanda",
+    "centroid_lat": 8.042498,
+    "centroid_lng": 81.235006
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Badulla",
+    "centroid_lat": 6.986247,
+    "centroid_lng": 81.088834
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Bandarawela",
+    "centroid_lat": 6.82977,
+    "centroid_lng": 81.006434
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Ella",
+    "centroid_lat": 6.867712,
+    "centroid_lng": 81.066455
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Girandurukotte",
+    "centroid_lat": 7.486737,
+    "centroid_lng": 81.01052
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Haldummulla",
+    "centroid_lat": 6.700935,
+    "centroid_lng": 80.96479
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Haliela",
+    "centroid_lat": 6.945049,
+    "centroid_lng": 81.02014
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Haputhale",
+    "centroid_lat": 6.792153,
+    "centroid_lng": 80.962818
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Kandaketiya",
+    "centroid_lat": 7.130748,
+    "centroid_lng": 80.99405
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Lunugala",
+    "centroid_lat": 7.038367,
+    "centroid_lng": 81.188116
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Mahiyanganaya",
+    "centroid_lat": 7.419263,
+    "centroid_lng": 81.112174
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Meegahakivula",
+    "centroid_lat": 7.125487,
+    "centroid_lng": 81.08322
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Passara",
+    "centroid_lat": 6.965031,
+    "centroid_lng": 81.147909
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Rideemaliyadda",
+    "centroid_lat": 7.273989,
+    "centroid_lng": 81.128769
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Soranathota",
+    "centroid_lat": 7.045631,
+    "centroid_lng": 81.049514
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Uva Paranagama",
+    "centroid_lat": 6.96657,
+    "centroid_lng": 80.917435
+  },
+  {
+    "district_id": "LK-81",
+    "region_name": "Welimada",
+    "centroid_lat": 6.8601,
+    "centroid_lng": 80.880543
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Ayagama",
+    "centroid_lat": 6.650941,
+    "centroid_lng": 80.29418
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Balangoda",
+    "centroid_lat": 6.628803,
+    "centroid_lng": 80.765746
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Eheliyagoda",
+    "centroid_lat": 6.83734,
+    "centroid_lng": 80.227433
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Elapatha",
+    "centroid_lat": 6.663587,
+    "centroid_lng": 80.356697
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Embilipitiya",
+    "centroid_lat": 6.355809,
+    "centroid_lng": 80.811417
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Godakawela",
+    "centroid_lat": 6.498438,
+    "centroid_lng": 80.642252
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Imbulpe",
+    "centroid_lat": 6.71489,
+    "centroid_lng": 80.738411
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Kahawaththa",
+    "centroid_lat": 6.527798,
+    "centroid_lng": 80.545068
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Kalawana",
+    "centroid_lat": 6.463156,
+    "centroid_lng": 80.453226
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Kiriella",
+    "centroid_lat": 6.758098,
+    "centroid_lng": 80.274558
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Kolonna",
+    "centroid_lat": 6.391425,
+    "centroid_lng": 80.676315
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Kuruwita",
+    "centroid_lat": 6.799049,
+    "centroid_lng": 80.355821
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Nivithigala",
+    "centroid_lat": 6.568985,
+    "centroid_lng": 80.456984
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Opanayaka",
+    "centroid_lat": 6.611682,
+    "centroid_lng": 80.624788
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Pelmadulla",
+    "centroid_lat": 6.634683,
+    "centroid_lng": 80.509776
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Ratnapura",
+    "centroid_lat": 6.734624,
+    "centroid_lng": 80.489668
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Ratnapura-Mc",
+    "centroid_lat": 6.684016,
+    "centroid_lng": 80.417953
+  },
+  {
+    "district_id": "LK-91",
+    "region_name": "Weligepola",
+    "centroid_lat": 6.541303,
+    "centroid_lng": 80.743736
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Aranayaka",
+    "centroid_lat": 7.165233,
+    "centroid_lng": 80.444038
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Bulathkohupitiya",
+    "centroid_lat": 7.09734,
+    "centroid_lng": 80.358279
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Dehiovita",
+    "centroid_lat": 6.93881,
+    "centroid_lng": 80.281036
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Deraniyagala",
+    "centroid_lat": 6.906824,
+    "centroid_lng": 80.402215
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Galigamuwa",
+    "centroid_lat": 7.215596,
+    "centroid_lng": 80.305399
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Kegalle",
+    "centroid_lat": 7.20812,
+    "centroid_lng": 80.368549
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Mawanella",
+    "centroid_lat": 7.229889,
+    "centroid_lng": 80.473886
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Rambukkana",
+    "centroid_lat": 7.323094,
+    "centroid_lng": 80.386393
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Ruwanwella",
+    "centroid_lat": 7.063706,
+    "centroid_lng": 80.218699
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Warakapola",
+    "centroid_lat": 7.203689,
+    "centroid_lng": 80.231609
+  },
+  {
+    "district_id": "LK-92",
+    "region_name": "Yatiyanthota",
+    "centroid_lat": 7.028338,
+    "centroid_lng": 80.369544
+  },
+  {
+    "district_id": "None",
+    "region_name": "Badalkumbura",
+    "centroid_lat": 6.869996,
+    "centroid_lng": 81.216909
+  },
+  {
+    "district_id": "None",
+    "region_name": "Bibila",
+    "centroid_lat": 7.189265,
+    "centroid_lng": 81.296898
+  },
+  {
+    "district_id": "None",
+    "region_name": "Buttala",
+    "centroid_lat": 6.662513,
+    "centroid_lng": 81.296545
+  },
+  {
+    "district_id": "None",
+    "region_name": "Kataragama",
+    "centroid_lat": 6.496256,
+    "centroid_lng": 81.393894
+  },
+  {
+    "district_id": "None",
+    "region_name": "Madulla",
+    "centroid_lat": 7.159405,
+    "centroid_lng": 81.429897
+  },
+  {
+    "district_id": "None",
+    "region_name": "Monaragala",
+    "centroid_lat": 6.931444,
+    "centroid_lng": 81.327096
+  },
+  {
+    "district_id": "None",
+    "region_name": "Sevanagala",
+    "centroid_lat": 6.378146,
+    "centroid_lng": 80.933656
+  },
+  {
+    "district_id": "None",
+    "region_name": "Siyambalanduwa",
+    "centroid_lat": 6.851006,
+    "centroid_lng": 81.526668
+  },
+  {
+    "district_id": "None",
+    "region_name": "Thanamalwila",
+    "centroid_lat": 6.495955,
+    "centroid_lng": 81.001728
+  },
+  {
+    "district_id": "None",
+    "region_name": "Wellawaya",
+    "centroid_lat": 6.6128,
+    "centroid_lng": 81.123399
+  }
+]
