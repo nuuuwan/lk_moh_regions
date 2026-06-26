@@ -56,7 +56,7 @@ class MOH:
         moh.plot(ax=ax, color=colors, edgecolor="white", linewidth=0.3)
         ax.axis("off")
         plt.tight_layout()
-        plt.savefig(MOH.IMAGE_PATH, dpi=150, bbox_inches="tight")
+        plt.savefig(MOH.IMAGE_PATH, dpi=600, bbox_inches="tight")
         plt.close(fig)
         print(f"Wrote image to {MOH.IMAGE_PATH}")
         return MOH.IMAGE_PATH
@@ -65,9 +65,7 @@ class MOH:
     @cache
     def get_district_idx():
         districts = json.load(
-            open(
-                os.path.join(MOH.DIR_ORIGINAL_DATA, "ents", "districts.json")
-            )
+            open(os.path.join(MOH.DIR_ORIGINAL_DATA, "ents", "districts.json"))
         )
         district_idx = {
             district["name"]: district["id"] for district in districts
