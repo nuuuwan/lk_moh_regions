@@ -23,6 +23,7 @@ class MOH:
     IMAGE_PATH = os.path.join(DIR_DATA_GEO, "moh.png")
     ENT_PATH = os.path.join(DIR_DATA_ENT, "moh.json")
     GND_MOH_MAP_PATH = os.path.join(DIR_DATA_MISC, "gnd_to_moh.json")
+    MOH_GND_MAP_PATH = os.path.join(DIR_DATA_MISC, "moh_to_gnds.json")
 
     @staticmethod
     def _format_moh_name(name):
@@ -239,10 +240,33 @@ class MOH:
         return records
 
     @staticmethod
+    def build_moh_to_gnds_map():
+        gnd_to_moh = json.load(open(MOH.GND_MOH_MAP_PATH))
+
+        moh_to_gnds = {}
+        for gnd_id, moh_id in gnd_to_moh.items():
+            moh_to_gnds.setdefault(moh_id, []).append(gnd_id)
+
+        moh_to_gnds = {
+            moh_id: sorted(gnd_ids)
+            for moh_id, gnd_ids in sorted(moh_to_gnds.items())
+        }
+
+        os.makedirs(MOH.DIR_DATA_MISC, exist_ok=True)
+        with open(MOH.MOH_GND_MAP_PATH, "w") as f:
+            json.dump(moh_to_gnds, f, indent=2)
+        print(
+            f"Wrote {len(moh_to_gnds)} MOH-to-GNDs mappings to "
+            f"{MOH.MOH_GND_MAP_PATH}"
+        )
+        return moh_to_gnds
+
+    @staticmethod
     def build():
         MOH.build_geojson()
         MOH.build_topojson()
         MOH.build_image()
         MOH.build_metadata()
         MOH.build_gnd_to_moh_map()
+        MOH.build_moh_to_gnds_map()
         MOH.rebuild_metadata_with_population()
