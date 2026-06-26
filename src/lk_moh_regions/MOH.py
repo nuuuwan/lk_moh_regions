@@ -4,6 +4,7 @@ import random
 from functools import cache
 
 import geopandas as gpd
+import matplotlib.patheffects as pe
 import matplotlib.pyplot as plt
 import topojson
 from shapely.geometry import Point
@@ -64,9 +65,31 @@ class MOH:
         ]
         fig, ax = plt.subplots(figsize=(8, 12))
         moh.plot(ax=ax, color=colors, edgecolor="white", linewidth=0.3)
+
+        # Label each region; font size scaled to polygon width
+        fig_width_pts = fig.get_figwidth() * 72
+        x_min, x_max = ax.get_xlim()
+        pts_per_data_unit = fig_width_pts / (x_max - x_min)
+        for _, row in moh.iterrows():
+            name = row["MOH_N"].title()
+            label = name if len(name) <= 10 else name[:9] + "."
+            bounds = row.geometry.bounds
+            poly_w_pts = (bounds[2] - bounds[0]) * pts_per_data_unit
+            font_size = max(1.5, min(poly_w_pts / 4.0, 6)) / 2
+            centroid = row.geometry.centroid
+            ax.text(
+                centroid.x,
+                centroid.y,
+                label,
+                ha="center",
+                va="center",
+                fontsize=font_size,
+                color="black",
+            )
+
         ax.axis("off")
         plt.tight_layout()
-        plt.savefig(MOH.IMAGE_PATH, dpi=600, bbox_inches="tight")
+        plt.savefig(MOH.IMAGE_PATH, dpi=300, bbox_inches="tight")
         plt.close(fig)
         print(f"Wrote image to {MOH.IMAGE_PATH}")
         return MOH.IMAGE_PATH
