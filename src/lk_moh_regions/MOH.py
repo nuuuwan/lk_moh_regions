@@ -24,6 +24,13 @@ class MOH:
     GND_MOH_MAP_PATH = os.path.join(DIR_DATA_MISC, "gnd_to_moh.json")
 
     @staticmethod
+    def _format_moh_name(name):
+        name = name.strip()
+        if name.lower() == "cmc":
+            return "CMC"
+        return name.title()
+
+    @staticmethod
     def build_geojson():
         gdf = gpd.read_file(MOH.SHP_PATH)
         gdf = gdf.set_crs(epsg=5234)
@@ -91,10 +98,8 @@ class MOH:
         records = []
         for _, row in moh.iterrows():
             centroid = row.geometry.centroid
-            region_name = row["MOH_N"].title()
+            region_name = MOH._format_moh_name(row["MOH_N"])
             district_id = MOH.get_district_id(row["DISTRICT_N"])
-            if region_name in ["Cmc"]:
-                region_name = region_name.upper()
             region_id = district_id + "-" + region_name.replace(" ", "-")
 
             records.append(
@@ -134,7 +139,10 @@ class MOH:
         }
         moh_gdf["region_id"] = moh_gdf.apply(
             lambda row: slug_to_region_id.get(
-                (row["district_id"], row["MOH_N"].title().replace(" ", "-"))
+                (
+                    row["district_id"],
+                    MOH._format_moh_name(row["MOH_N"]).replace(" ", "-"),
+                )
             ),
             axis=1,
         )
@@ -170,9 +178,48 @@ class MOH:
         return gnd_to_moh
 
     @staticmethod
+    def rebuild_metadata_with_population():
+        population_path = os.path.join(
+            MOH.DIR_DATA_MISC, "region_population.json"
+        )
+        region_population = json.load(open(population_path))
+        gnd_population = {
+            r["region_id"]: r["total_value"]
+            for r in region_population
+            if r["region_ent_type"] == "gnd"
+        }
+
+        gnd_to_moh = json.load(open(MOH.GND_MOH_MAP_PATH))
+
+        moh_population = {}
+        for gnd_id, moh_id in gnd_to_moh.items():
+            pop = gnd_population.get(gnd_id, 0)
+            moh_population[moh_id] = moh_population.get(moh_id, 0) + pop
+
+        records = json.load(open(MOH.ENT_PATH))
+        for record in records:
+            record["population"] = moh_population.get(record["region_id"], 0)
+            if record["population"] == 0:
+                raise ValueError(
+                    f"Population for MOH {record['region_id']} is 0. "
+                    f"Check GND-to-MOH mapping and GND population data."
+                )
+
+        total_population = sum(moh_population.values())
+        print(f"Total population across all MOH regions: {total_population}")
+
+        with open(MOH.ENT_PATH, "w") as f:
+            json.dump(records, f, indent=2)
+        print(
+            f"Updated {len(records)} MOH metadata records with population in {MOH.ENT_PATH}"
+        )
+        return records
+
+    @staticmethod
     def build():
         MOH.build_geojson()
         MOH.build_topojson()
         MOH.build_image()
         MOH.build_metadata()
         MOH.build_gnd_to_moh_map()
+        MOH.rebuild_metadata_with_population()

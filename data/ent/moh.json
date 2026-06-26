@@ -4,2330 +4,2663 @@
     "region_name": "Battaramulla",
     "district_id": "LK-11",
     "centroid_lat": 6.901455,
-    "centroid_lng": 79.933163
+    "centroid_lng": 79.933163,
+    "population": 87511
   },
   {
     "region_id": "LK-11-Boralesgamuwa",
     "region_name": "Boralesgamuwa",
     "district_id": "LK-11",
     "centroid_lat": 6.838697,
-    "centroid_lng": 79.902288
+    "centroid_lng": 79.902288,
+    "population": 59240
   },
   {
     "region_id": "LK-11-CMC",
     "region_name": "CMC",
     "district_id": "LK-11",
     "centroid_lat": 6.919993,
-    "centroid_lng": 79.867331
+    "centroid_lng": 79.867331,
+    "population": 508408
   },
   {
     "region_id": "LK-11-Dehiwala",
     "region_name": "Dehiwala",
     "district_id": "LK-11",
     "centroid_lat": 6.85841,
-    "centroid_lng": 79.875772
+    "centroid_lng": 79.875772,
+    "population": 93815
   },
   {
     "region_id": "LK-11-Hanwella",
     "region_name": "Hanwella",
     "district_id": "LK-11",
     "centroid_lat": 6.922725,
-    "centroid_lng": 80.147156
+    "centroid_lng": 80.147156,
+    "population": 122128
   },
   {
     "region_id": "LK-11-Homagama",
     "region_name": "Homagama",
     "district_id": "LK-11",
     "centroid_lat": 6.854735,
-    "centroid_lng": 80.032597
+    "centroid_lng": 80.032597,
+    "population": 179146
   },
   {
     "region_id": "LK-11-Kaduwela",
     "region_name": "Kaduwela",
     "district_id": "LK-11",
     "centroid_lat": 6.904055,
-    "centroid_lng": 79.99178
+    "centroid_lng": 79.99178,
+    "population": 190407
   },
   {
     "region_id": "LK-11-Kahathuduwa",
     "region_name": "Kahathuduwa",
     "district_id": "LK-11",
     "centroid_lat": 6.794417,
-    "centroid_lng": 79.985817
+    "centroid_lng": 79.985817,
+    "population": 101625
   },
   {
     "region_id": "LK-11-Kolonnawa",
     "region_name": "Kolonnawa",
     "district_id": "LK-11",
     "centroid_lat": 6.934657,
-    "centroid_lng": 79.91511
+    "centroid_lng": 79.91511,
+    "population": 214070
   },
   {
     "region_id": "LK-11-Maharagama",
     "region_name": "Maharagama",
     "district_id": "LK-11",
     "centroid_lat": 6.853678,
-    "centroid_lng": 79.946768
+    "centroid_lng": 79.946768,
+    "population": 155965
   },
   {
     "region_id": "LK-11-Moratuwa",
     "region_name": "Moratuwa",
     "district_id": "LK-11",
     "centroid_lat": 6.78271,
-    "centroid_lng": 79.891084
+    "centroid_lng": 79.891084,
+    "population": 160199
   },
   {
     "region_id": "LK-11-Nugegoda",
     "region_name": "Nugegoda",
     "district_id": "LK-11",
     "centroid_lat": 6.890497,
-    "centroid_lng": 79.895417
+    "centroid_lng": 79.895417,
+    "population": 75256
   },
   {
     "region_id": "LK-11-Padukka",
     "region_name": "Padukka",
     "district_id": "LK-11",
     "centroid_lat": 6.833886,
-    "centroid_lng": 80.12193
+    "centroid_lng": 80.12193,
+    "population": 73014
   },
   {
     "region_id": "LK-11-Piliyandala",
     "region_name": "Piliyandala",
     "district_id": "LK-11",
     "centroid_lat": 6.795347,
-    "centroid_lng": 79.934007
+    "centroid_lng": 79.934007,
+    "population": 204301
   },
   {
     "region_id": "LK-11-Pitakotte",
     "region_name": "Pitakotte",
     "district_id": "LK-11",
     "centroid_lat": 6.881258,
-    "centroid_lng": 79.913055
+    "centroid_lng": 79.913055,
+    "population": 61468
   },
   {
     "region_id": "LK-11-Rathmalana",
     "region_name": "Rathmalana",
     "district_id": "LK-11",
     "centroid_lat": 6.827059,
-    "centroid_lng": 79.878088
+    "centroid_lng": 79.878088,
+    "population": 88063
   },
   {
     "region_id": "LK-12-Attanagalla",
     "region_name": "Attanagalla",
     "district_id": "LK-12",
     "centroid_lat": 7.114278,
-    "centroid_lng": 80.110396
+    "centroid_lng": 80.110396,
+    "population": 199017
   },
   {
     "region_id": "LK-12-Biyagama",
     "region_name": "Biyagama",
     "district_id": "LK-12",
     "centroid_lat": 6.96863,
-    "centroid_lng": 79.978536
+    "centroid_lng": 79.978536,
+    "population": 207155
   },
   {
     "region_id": "LK-12-Divulapitiya",
     "region_name": "Divulapitiya",
     "district_id": "LK-12",
     "centroid_lat": 7.25385,
-    "centroid_lng": 80.00678
+    "centroid_lng": 80.00678,
+    "population": 158286
   },
   {
     "region_id": "LK-12-Dompe",
     "region_name": "Dompe",
     "district_id": "LK-12",
     "centroid_lat": 6.99065,
-    "centroid_lng": 80.098964
+    "centroid_lng": 80.098964,
+    "population": 169223
   },
   {
     "region_id": "LK-12-Gampaha",
     "region_name": "Gampaha",
     "district_id": "LK-12",
     "centroid_lat": 7.071172,
-    "centroid_lng": 79.993466
+    "centroid_lng": 79.993466,
+    "population": 201818
   },
   {
     "region_id": "LK-12-Ja-Ela",
     "region_name": "Ja-Ela",
     "district_id": "LK-12",
     "centroid_lat": 7.080623,
-    "centroid_lng": 79.902204
+    "centroid_lng": 79.902204,
+    "population": 137864
   },
   {
     "region_id": "LK-12-Katana",
     "region_name": "Katana",
     "district_id": "LK-12",
     "centroid_lat": 7.229758,
-    "centroid_lng": 79.888069
+    "centroid_lng": 79.888069,
+    "population": 123983
   },
   {
     "region_id": "LK-12-Kelaniya",
     "region_name": "Kelaniya",
     "district_id": "LK-12",
     "centroid_lat": 6.970327,
-    "centroid_lng": 79.910265
+    "centroid_lng": 79.910265,
+    "population": 133755
   },
   {
     "region_id": "LK-12-Mahara",
     "region_name": "Mahara",
     "district_id": "LK-12",
     "centroid_lat": 7.029365,
-    "centroid_lng": 80.014436
+    "centroid_lng": 80.014436,
+    "population": 226214
   },
   {
     "region_id": "LK-12-Minuwangoda",
     "region_name": "Minuwangoda",
     "district_id": "LK-12",
     "centroid_lat": 7.154634,
-    "centroid_lng": 79.978537
+    "centroid_lng": 79.978537,
+    "population": 197883
   },
   {
     "region_id": "LK-12-Mirigama",
     "region_name": "Mirigama",
     "district_id": "LK-12",
     "centroid_lat": 7.224621,
-    "centroid_lng": 80.122616
+    "centroid_lng": 80.122616,
+    "population": 176309
   },
   {
     "region_id": "LK-12-Negambo",
     "region_name": "Negambo",
     "district_id": "LK-12",
     "centroid_lat": 7.211433,
-    "centroid_lng": 79.843604
+    "centroid_lng": 79.843604,
+    "population": 132907
   },
   {
     "region_id": "LK-12-Ragama",
     "region_name": "Ragama",
     "district_id": "LK-12",
     "centroid_lat": 7.035755,
-    "centroid_lng": 79.92778
+    "centroid_lng": 79.92778,
+    "population": 82930
   },
   {
     "region_id": "LK-12-Seeduwa",
     "region_name": "Seeduwa",
     "district_id": "LK-12",
     "centroid_lat": 7.151395,
-    "centroid_lng": 79.890323
+    "centroid_lng": 79.890323,
+    "population": 119832
   },
   {
     "region_id": "LK-12-Wattala",
     "region_name": "Wattala",
     "district_id": "LK-12",
     "centroid_lat": 7.037736,
-    "centroid_lng": 79.876389
+    "centroid_lng": 79.876389,
+    "population": 166517
   },
   {
     "region_id": "LK-13-Agalawatta",
     "region_name": "Agalawatta",
     "district_id": "LK-13",
     "centroid_lat": 6.515278,
-    "centroid_lng": 80.174443
+    "centroid_lng": 80.174443,
+    "population": 36589
   },
   {
     "region_id": "LK-13-Bandaragama",
     "region_name": "Bandaragama",
     "district_id": "LK-13",
     "centroid_lat": 6.718675,
-    "centroid_lng": 79.976065
+    "centroid_lng": 79.976065,
+    "population": 124133
   },
   {
     "region_id": "LK-13-Beruwala",
     "region_name": "Beruwala",
     "district_id": "LK-13",
     "centroid_lat": 6.48883,
-    "centroid_lng": 80.004725
+    "centroid_lng": 80.004725,
+    "population": 180820
   },
   {
     "region_id": "LK-13-Bulathsinhala",
     "region_name": "Bulathsinhala",
     "district_id": "LK-13",
     "centroid_lat": 6.647916,
-    "centroid_lng": 80.174233
+    "centroid_lng": 80.174233,
+    "population": 65550
   },
   {
     "region_id": "LK-13-Horana",
     "region_name": "Horana",
     "district_id": "LK-13",
     "centroid_lat": 6.756307,
-    "centroid_lng": 80.055903
+    "centroid_lng": 80.055903,
+    "population": 133685
   },
   {
     "region_id": "LK-13-Ingiriya",
     "region_name": "Ingiriya",
     "district_id": "LK-13",
     "centroid_lat": 6.762397,
-    "centroid_lng": 80.151674
+    "centroid_lng": 80.151674,
+    "population": 58361
   },
   {
     "region_id": "LK-13-Kalutara",
     "region_name": "Kalutara",
     "district_id": "LK-13",
     "centroid_lat": 6.592119,
-    "centroid_lng": 79.991661
+    "centroid_lng": 79.991661,
+    "population": 127069
   },
   {
     "region_id": "LK-13-Madurawala",
     "region_name": "Madurawala",
     "district_id": "LK-13",
     "centroid_lat": 6.655785,
-    "centroid_lng": 80.058502
+    "centroid_lng": 80.058502,
+    "population": 92889
   },
   {
     "region_id": "LK-13-Mathugama",
     "region_name": "Mathugama",
     "district_id": "LK-13",
     "centroid_lat": 6.514803,
-    "centroid_lng": 80.078479
+    "centroid_lng": 80.078479,
+    "population": 130571
   },
   {
     "region_id": "LK-13-Palindanuwara",
     "region_name": "Palindanuwara",
     "district_id": "LK-13",
     "centroid_lat": 6.506189,
-    "centroid_lng": 80.274077
+    "centroid_lng": 80.274077,
+    "population": 51171
   },
   {
     "region_id": "LK-13-Panadura",
     "region_name": "Panadura",
     "district_id": "LK-13",
     "centroid_lat": 6.686496,
-    "centroid_lng": 79.943342
+    "centroid_lng": 79.943342,
+    "population": 249613
   },
   {
     "region_id": "LK-13-Walallawita",
     "region_name": "Walallawita",
     "district_id": "LK-13",
     "centroid_lat": 6.406837,
-    "centroid_lng": 80.187045
+    "centroid_lng": 80.187045,
+    "population": 55333
   },
   {
     "region_id": "LK-21-Akurana",
     "region_name": "Akurana",
     "district_id": "LK-21",
     "centroid_lat": 7.390807,
-    "centroid_lng": 80.618493
+    "centroid_lng": 80.618493,
+    "population": 71010
   },
   {
     "region_id": "LK-21-Bambaradeniya",
     "region_name": "Bambaradeniya",
     "district_id": "LK-21",
     "centroid_lat": 7.216095,
-    "centroid_lng": 80.544632
+    "centroid_lng": 80.544632,
+    "population": 47868
   },
   {
     "region_id": "LK-21-Delthota",
     "region_name": "Delthota",
     "district_id": "LK-21",
     "centroid_lat": 7.182757,
-    "centroid_lng": 80.700642
+    "centroid_lng": 80.700642,
+    "population": 31904
   },
   {
     "region_id": "LK-21-Doluwa",
     "region_name": "Doluwa",
     "district_id": "LK-21",
     "centroid_lat": 7.164052,
-    "centroid_lng": 80.648465
+    "centroid_lng": 80.648465,
+    "population": 53535
   },
   {
     "region_id": "LK-21-Ganga-Ihala-Korale",
     "region_name": "Ganga Ihala Korale",
     "district_id": "LK-21",
     "centroid_lat": 7.110969,
-    "centroid_lng": 80.51535
+    "centroid_lng": 80.51535,
+    "population": 53141
   },
   {
     "region_id": "LK-21-Harispattuwa",
     "region_name": "Harispattuwa",
     "district_id": "LK-21",
     "centroid_lat": 7.328288,
-    "centroid_lng": 80.587681
+    "centroid_lng": 80.587681,
+    "population": 95757
   },
   {
     "region_id": "LK-21-Hatharaliyadda",
     "region_name": "Hatharaliyadda",
     "district_id": "LK-21",
     "centroid_lat": 7.331515,
-    "centroid_lng": 80.48071
+    "centroid_lng": 80.48071,
+    "population": 31141
   },
   {
     "region_id": "LK-21-Kandy-Four-Gravets-&-Gangawata-Korale",
     "region_name": "Kandy Four Gravets & Gangawata Korale",
     "district_id": "LK-21",
     "centroid_lat": 7.272748,
-    "centroid_lng": 80.638475
+    "centroid_lng": 80.638475,
+    "population": 152397
   },
   {
     "region_id": "LK-21-Kundasale",
     "region_name": "Kundasale",
     "district_id": "LK-21",
     "centroid_lat": 7.288489,
-    "centroid_lng": 80.722472
+    "centroid_lng": 80.722472,
+    "population": 73586
   },
   {
     "region_id": "LK-21-Medadumbara",
     "region_name": "Medadumbara",
     "district_id": "LK-21",
     "centroid_lat": 7.302645,
-    "centroid_lng": 80.800265
+    "centroid_lng": 80.800265,
+    "population": 64539
   },
   {
     "region_id": "LK-21-Menikhinna",
     "region_name": "Menikhinna",
     "district_id": "LK-21",
     "centroid_lat": 7.321173,
-    "centroid_lng": 80.697675
+    "centroid_lng": 80.697675,
+    "population": 67384
   },
   {
     "region_id": "LK-21-Minipe",
     "region_name": "Minipe",
     "district_id": "LK-21",
     "centroid_lat": 7.346853,
-    "centroid_lng": 80.949918
+    "centroid_lng": 80.949918,
+    "population": 55342
   },
   {
     "region_id": "LK-21-Panvila",
     "region_name": "Panvila",
     "district_id": "LK-21",
     "centroid_lat": 7.40972,
-    "centroid_lng": 80.740637
+    "centroid_lng": 80.740637,
+    "population": 25650
   },
   {
     "region_id": "LK-21-Pasbage-Korale",
     "region_name": "Pasbage Korale",
     "district_id": "LK-21",
     "centroid_lat": 7.018302,
-    "centroid_lng": 80.536384
+    "centroid_lng": 80.536384,
+    "population": 65553
   },
   {
     "region_id": "LK-21-Pathadumbara",
     "region_name": "Pathadumbara",
     "district_id": "LK-21",
     "centroid_lat": 7.348939,
-    "centroid_lng": 80.661453
+    "centroid_lng": 80.661453,
+    "population": 96889
   },
   {
     "region_id": "LK-21-Pathahewaheta",
     "region_name": "Pathahewaheta",
     "district_id": "LK-21",
     "centroid_lat": 7.230056,
-    "centroid_lng": 80.706684
+    "centroid_lng": 80.706684,
+    "population": 59835
   },
   {
     "region_id": "LK-21-Poojapitiya",
     "region_name": "Poojapitiya",
     "district_id": "LK-21",
     "centroid_lat": 7.400504,
-    "centroid_lng": 80.566057
+    "centroid_lng": 80.566057,
+    "population": 60316
   },
   {
     "region_id": "LK-21-Thumpane",
     "region_name": "Thumpane",
     "district_id": "LK-21",
     "centroid_lat": 7.366617,
-    "centroid_lng": 80.514324
+    "centroid_lng": 80.514324,
+    "population": 38776
   },
   {
     "region_id": "LK-21-Udadumbara",
     "region_name": "Udadumbara",
     "district_id": "LK-21",
     "centroid_lat": 7.329697,
-    "centroid_lng": 80.875354
+    "centroid_lng": 80.875354,
+    "population": 23046
   },
   {
     "region_id": "LK-21-Udapalatha",
     "region_name": "Udapalatha",
     "district_id": "LK-21",
     "centroid_lat": 7.128622,
-    "centroid_lng": 80.597318
+    "centroid_lng": 80.597318,
+    "population": 109092
   },
   {
     "region_id": "LK-21-Udunuwara",
     "region_name": "Udunuwara",
     "district_id": "LK-21",
     "centroid_lat": 7.23096,
-    "centroid_lng": 80.578245
+    "centroid_lng": 80.578245,
+    "population": 70803
   },
   {
     "region_id": "LK-21-Yatinuwara",
     "region_name": "Yatinuwara",
     "district_id": "LK-21",
     "centroid_lat": 7.28244,
-    "centroid_lng": 80.538114
+    "centroid_lng": 80.538114,
+    "population": 113769
   },
   {
     "region_id": "LK-22-Ambanganga-Korale",
     "region_name": "Ambanganga Korale",
     "district_id": "LK-22",
     "centroid_lat": 7.561412,
-    "centroid_lng": 80.677646
+    "centroid_lng": 80.677646,
+    "population": 15876
   },
   {
     "region_id": "LK-22-Dambulla",
     "region_name": "Dambulla",
     "district_id": "LK-22",
     "centroid_lat": 7.875426,
-    "centroid_lng": 80.719412
+    "centroid_lng": 80.719412,
+    "population": 81239
   },
   {
     "region_id": "LK-22-Galewela",
     "region_name": "Galewela",
     "district_id": "LK-22",
     "centroid_lat": 7.778476,
-    "centroid_lng": 80.571076
+    "centroid_lng": 80.571076,
+    "population": 78639
   },
   {
     "region_id": "LK-22-Laggala-Pallegama",
     "region_name": "Laggala-Pallegama",
     "district_id": "LK-22",
     "centroid_lat": 7.555007,
-    "centroid_lng": 80.808892
+    "centroid_lng": 80.808892,
+    "population": 16300
   },
   {
     "region_id": "LK-22-Matale",
     "region_name": "Matale",
     "district_id": "LK-22",
     "centroid_lat": 7.540367,
-    "centroid_lng": 80.629513
+    "centroid_lng": 80.629513,
+    "population": 80376
   },
   {
     "region_id": "LK-22-Naula",
     "region_name": "Naula",
     "district_id": "LK-22",
     "centroid_lat": 7.687978,
-    "centroid_lng": 80.708127
+    "centroid_lng": 80.708127,
+    "population": 30718
   },
   {
     "region_id": "LK-22-Pallepola",
     "region_name": "Pallepola",
     "district_id": "LK-22",
     "centroid_lat": 7.646668,
-    "centroid_lng": 80.598702
+    "centroid_lng": 80.598702,
+    "population": 31629
   },
   {
     "region_id": "LK-22-Rattota",
     "region_name": "Rattota",
     "district_id": "LK-22",
     "centroid_lat": 7.485902,
-    "centroid_lng": 80.686096
+    "centroid_lng": 80.686096,
+    "population": 53650
   },
   {
     "region_id": "LK-22-Ukuwela",
     "region_name": "Ukuwela",
     "district_id": "LK-22",
     "centroid_lat": 7.429044,
-    "centroid_lng": 80.637568
+    "centroid_lng": 80.637568,
+    "population": 72313
   },
   {
     "region_id": "LK-22-Wilgamuwa",
     "region_name": "Wilgamuwa",
     "district_id": "LK-22",
     "centroid_lat": 7.604317,
-    "centroid_lng": 80.929444
+    "centroid_lng": 80.929444,
+    "population": 33715
   },
   {
     "region_id": "LK-22-Yatawatta",
     "region_name": "Yatawatta",
     "district_id": "LK-22",
     "centroid_lat": 7.549546,
-    "centroid_lng": 80.58882
+    "centroid_lng": 80.58882,
+    "population": 32415
   },
   {
     "region_id": "LK-23-Ambagamuwa",
     "region_name": "Ambagamuwa",
     "district_id": "LK-23",
     "centroid_lat": 6.94399,
-    "centroid_lng": 80.504549
+    "centroid_lng": 80.504549,
+    "population": 82685
   },
   {
     "region_id": "LK-23-Bogawanthalawa",
     "region_name": "Bogawanthalawa",
     "district_id": "LK-23",
     "centroid_lat": 6.813029,
-    "centroid_lng": 80.674876
+    "centroid_lng": 80.674876,
+    "population": 58165
   },
   {
     "region_id": "LK-23-Hanguranketha",
     "region_name": "Hanguranketha",
     "district_id": "LK-23",
     "centroid_lat": 7.157698,
-    "centroid_lng": 80.772225
+    "centroid_lng": 80.772225,
+    "population": 62705
   },
   {
     "region_id": "LK-23-Kotagala",
     "region_name": "Kotagala",
     "district_id": "LK-23",
     "centroid_lat": 6.942671,
-    "centroid_lng": 80.627679
+    "centroid_lng": 80.627679,
+    "population": 58291
   },
   {
     "region_id": "LK-23-Kothmale",
     "region_name": "Kothmale",
     "district_id": "LK-23",
     "centroid_lat": 7.039901,
-    "centroid_lng": 80.684402
+    "centroid_lng": 80.684402,
+    "population": 62796
   },
   {
     "region_id": "LK-23-Lindula",
     "region_name": "Lindula",
     "district_id": "LK-23",
     "centroid_lat": 6.868017,
-    "centroid_lng": 80.720209
+    "centroid_lng": 80.720209,
+    "population": 73801
   },
   {
     "region_id": "LK-23-Maskeliya",
     "region_name": "Maskeliya",
     "district_id": "LK-23",
     "centroid_lat": 6.821909,
-    "centroid_lng": 80.566832
+    "centroid_lng": 80.566832,
+    "population": 63055
   },
   {
     "region_id": "LK-23-Mathurata",
     "region_name": "Mathurata",
     "district_id": "LK-23",
     "centroid_lat": 7.064934,
-    "centroid_lng": 80.785014
+    "centroid_lng": 80.785014,
+    "population": 30905
   },
   {
     "region_id": "LK-23-Nawathispane",
     "region_name": "Nawathispane",
     "district_id": "LK-23",
     "centroid_lat": 7.038318,
-    "centroid_lng": 80.606954
+    "centroid_lng": 80.606954,
+    "population": 40193
   },
   {
     "region_id": "LK-23-Nuwara-Eliya",
     "region_name": "Nuwara Eliya",
     "district_id": "LK-23",
     "centroid_lat": 6.92132,
-    "centroid_lng": 80.779328
+    "centroid_lng": 80.779328,
+    "population": 57721
   },
   {
     "region_id": "LK-23-Nuwara-Eliya-Mc",
     "region_name": "Nuwara Eliya Mc",
     "district_id": "LK-23",
     "centroid_lat": 6.968929,
-    "centroid_lng": 80.783215
+    "centroid_lng": 80.783215,
+    "population": 27254
   },
   {
     "region_id": "LK-23-Ragala",
     "region_name": "Ragala",
     "district_id": "LK-23",
     "centroid_lat": 7.031915,
-    "centroid_lng": 80.883147
+    "centroid_lng": 80.883147,
+    "population": 60207
   },
   {
     "region_id": "LK-23-Walapane",
     "region_name": "Walapane",
     "district_id": "LK-23",
     "centroid_lat": 7.127843,
-    "centroid_lng": 80.887883
+    "centroid_lng": 80.887883,
+    "population": 47502
   },
   {
     "region_id": "LK-31-Akmeemana",
     "region_name": "Akmeemana",
     "district_id": "LK-31",
     "centroid_lat": 6.058994,
-    "centroid_lng": 80.28362
+    "centroid_lng": 80.28362,
+    "population": 86136
   },
   {
     "region_id": "LK-31-Ambalangoda",
     "region_name": "Ambalangoda",
     "district_id": "LK-31",
     "centroid_lat": 6.222205,
-    "centroid_lng": 80.102702
+    "centroid_lng": 80.102702,
+    "population": 57372
   },
   {
     "region_id": "LK-31-Baddegama",
     "region_name": "Baddegama",
     "district_id": "LK-31",
     "centroid_lat": 6.136843,
-    "centroid_lng": 80.220566
+    "centroid_lng": 80.220566,
+    "population": 78658
   },
   {
     "region_id": "LK-31-Balapitiya",
     "region_name": "Balapitiya",
     "district_id": "LK-31",
     "centroid_lat": 6.314303,
-    "centroid_lng": 80.051461
+    "centroid_lng": 80.051461,
+    "population": 68768
   },
   {
     "region_id": "LK-31-Bentota",
     "region_name": "Bentota",
     "district_id": "LK-31",
     "centroid_lat": 6.386503,
-    "centroid_lng": 80.055745
+    "centroid_lng": 80.055745,
+    "population": 49650
   },
   {
     "region_id": "LK-31-Bope-Poddala",
     "region_name": "Bope-Poddala",
     "district_id": "LK-31",
     "centroid_lat": 6.084356,
-    "centroid_lng": 80.2169
+    "centroid_lng": 80.2169,
+    "population": 57890
   },
   {
     "region_id": "LK-31-Elpitiya",
     "region_name": "Elpitiya",
     "district_id": "LK-31",
     "centroid_lat": 6.290249,
-    "centroid_lng": 80.186598
+    "centroid_lng": 80.186598,
+    "population": 66671
   },
   {
     "region_id": "LK-31-Galle-Four-Gravets",
     "region_name": "Galle Four Gravets",
     "district_id": "LK-31",
     "centroid_lat": 6.053122,
-    "centroid_lng": 80.208393
+    "centroid_lng": 80.208393,
+    "population": 108321
   },
   {
     "region_id": "LK-31-Gonapinuwala",
     "region_name": "Gonapinuwala",
     "district_id": "LK-31",
     "centroid_lat": 6.166154,
-    "centroid_lng": 80.131491
+    "centroid_lng": 80.131491,
+    "population": 22940
   },
   {
     "region_id": "LK-31-Habaraduwa",
     "region_name": "Habaraduwa",
     "district_id": "LK-31",
     "centroid_lat": 6.001053,
-    "centroid_lng": 80.320379
+    "centroid_lng": 80.320379,
+    "population": 63302
   },
   {
     "region_id": "LK-31-Hikkaduwa",
     "region_name": "Hikkaduwa",
     "district_id": "LK-31",
     "centroid_lat": 6.168113,
-    "centroid_lng": 80.096863
+    "centroid_lng": 80.096863,
+    "population": 61251
   },
   {
     "region_id": "LK-31-Imaduwa",
     "region_name": "Imaduwa",
     "district_id": "LK-31",
     "centroid_lat": 6.032721,
-    "centroid_lng": 80.357776
+    "centroid_lng": 80.357776,
+    "population": 48204
   },
   {
     "region_id": "LK-31-Karandeniya",
     "region_name": "Karandeniya",
     "district_id": "LK-31",
     "centroid_lat": 6.30108,
-    "centroid_lng": 80.100622
+    "centroid_lng": 80.100622,
+    "population": 63862
   },
   {
     "region_id": "LK-31-Nagoda",
     "region_name": "Nagoda",
     "district_id": "LK-31",
     "centroid_lat": 6.199735,
-    "centroid_lng": 80.312902
+    "centroid_lng": 80.312902,
+    "population": 52031
   },
   {
     "region_id": "LK-31-Neluwa",
     "region_name": "Neluwa",
     "district_id": "LK-31",
     "centroid_lat": 6.360282,
-    "centroid_lng": 80.410723
+    "centroid_lng": 80.410723,
+    "population": 27746
   },
   {
     "region_id": "LK-31-Niyagama",
     "region_name": "Niyagama",
     "district_id": "LK-31",
     "centroid_lat": 6.30246,
-    "centroid_lng": 80.252335
+    "centroid_lng": 80.252335,
+    "population": 35751
   },
   {
     "region_id": "LK-31-Rathgama",
     "region_name": "Rathgama",
     "district_id": "LK-31",
     "centroid_lat": 6.100956,
-    "centroid_lng": 80.157329
+    "centroid_lng": 80.157329,
+    "population": 41456
   },
   {
     "region_id": "LK-31-Thawalama",
     "region_name": "Thawalama",
     "district_id": "LK-31",
     "centroid_lat": 6.292984,
-    "centroid_lng": 80.355567
+    "centroid_lng": 80.355567,
+    "population": 30989
   },
   {
     "region_id": "LK-31-Welivitiya-Divithura",
     "region_name": "Welivitiya-Divithura",
     "district_id": "LK-31",
     "centroid_lat": 6.206319,
-    "centroid_lng": 80.180197
+    "centroid_lng": 80.180197,
+    "population": 29687
   },
   {
     "region_id": "LK-31-Yakkalamulla",
     "region_name": "Yakkalamulla",
     "district_id": "LK-31",
     "centroid_lat": 6.106627,
-    "centroid_lng": 80.359402
+    "centroid_lng": 80.359402,
+    "population": 46687
   },
   {
     "region_id": "LK-32-Akuressa",
     "region_name": "Akuressa",
     "district_id": "LK-32",
     "centroid_lat": 6.135023,
-    "centroid_lng": 80.440004
+    "centroid_lng": 80.440004,
+    "population": 52624
   },
   {
     "region_id": "LK-32-Athuraliya",
     "region_name": "Athuraliya",
     "district_id": "LK-32",
     "centroid_lat": 6.117274,
-    "centroid_lng": 80.508648
+    "centroid_lng": 80.508648,
+    "population": 32811
   },
   {
     "region_id": "LK-32-Devinuwara",
     "region_name": "Devinuwara",
     "district_id": "LK-32",
     "centroid_lat": 5.975571,
-    "centroid_lng": 80.614638
+    "centroid_lng": 80.614638,
+    "population": 51530
   },
   {
     "region_id": "LK-32-Dickwella",
     "region_name": "Dickwella",
     "district_id": "LK-32",
     "centroid_lat": 5.984818,
-    "centroid_lng": 80.673769
+    "centroid_lng": 80.673769,
+    "population": 56468
   },
   {
     "region_id": "LK-32-Hakmana",
     "region_name": "Hakmana",
     "district_id": "LK-32",
     "centroid_lat": 6.094867,
-    "centroid_lng": 80.650036
+    "centroid_lng": 80.650036,
+    "population": 31822
   },
   {
     "region_id": "LK-32-Kamburupitiya",
     "region_name": "Kamburupitiya",
     "district_id": "LK-32",
     "centroid_lat": 6.066358,
-    "centroid_lng": 80.56139
+    "centroid_lng": 80.56139,
+    "population": 42816
   },
   {
     "region_id": "LK-32-Kirinda-Puhulwella",
     "region_name": "Kirinda Puhulwella",
     "district_id": "LK-32",
     "centroid_lat": 6.046113,
-    "centroid_lng": 80.637133
+    "centroid_lng": 80.637133,
+    "population": 21198
   },
   {
     "region_id": "LK-32-Kotapola",
     "region_name": "Kotapola",
     "district_id": "LK-32",
     "centroid_lat": 6.322681,
-    "centroid_lng": 80.539277
+    "centroid_lng": 80.539277,
+    "population": 61002
   },
   {
     "region_id": "LK-32-Malimbada",
     "region_name": "Malimbada",
     "district_id": "LK-32",
     "centroid_lat": 6.019413,
-    "centroid_lng": 80.498265
+    "centroid_lng": 80.498265,
+    "population": 37142
   },
   {
     "region_id": "LK-32-Matara-Mc",
     "region_name": "Matara Mc",
     "district_id": "LK-32",
     "centroid_lat": 5.953054,
-    "centroid_lng": 80.538768
+    "centroid_lng": 80.538768,
+    "population": 76322
   },
   {
     "region_id": "LK-32-Matara-Ps",
     "region_name": "Matara Ps",
     "district_id": "LK-32",
     "centroid_lat": 5.968353,
-    "centroid_lng": 80.575033
+    "centroid_lng": 80.575033,
+    "population": 44719
   },
   {
     "region_id": "LK-32-Mulatiyana",
     "region_name": "Mulatiyana",
     "district_id": "LK-32",
     "centroid_lat": 6.146927,
-    "centroid_lng": 80.586504
+    "centroid_lng": 80.586504,
+    "population": 52995
   },
   {
     "region_id": "LK-32-Pasgoda",
     "region_name": "Pasgoda",
     "district_id": "LK-32",
     "centroid_lat": 6.275917,
-    "centroid_lng": 80.608346
+    "centroid_lng": 80.608346,
+    "population": 61171
   },
   {
     "region_id": "LK-32-Pitabeddara",
     "region_name": "Pitabeddara",
     "district_id": "LK-32",
     "centroid_lat": 6.23924,
-    "centroid_lng": 80.472711
+    "centroid_lng": 80.472711,
+    "population": 48867
   },
   {
     "region_id": "LK-32-Thihagoda",
     "region_name": "Thihagoda",
     "district_id": "LK-32",
     "centroid_lat": 6.009617,
-    "centroid_lng": 80.560306
+    "centroid_lng": 80.560306,
+    "population": 34306
   },
   {
     "region_id": "LK-32-Weligama",
     "region_name": "Weligama",
     "district_id": "LK-32",
     "centroid_lat": 5.967006,
-    "centroid_lng": 80.443914
+    "centroid_lng": 80.443914,
+    "population": 76136
   },
   {
     "region_id": "LK-32-Welipitiya",
     "region_name": "Welipitiya",
     "district_id": "LK-32",
     "centroid_lat": 6.016565,
-    "centroid_lng": 80.438515
+    "centroid_lng": 80.438515,
+    "population": 55960
   },
   {
     "region_id": "LK-33-Ambalantota",
     "region_name": "Ambalantota",
     "district_id": "LK-33",
     "centroid_lat": 6.161098,
-    "centroid_lng": 80.963002
+    "centroid_lng": 80.963002,
+    "population": 80506
   },
   {
     "region_id": "LK-33-Angunukolapeles",
     "region_name": "Angunukolapeles",
     "district_id": "LK-33",
     "centroid_lat": 6.19316,
-    "centroid_lng": 80.85191
+    "centroid_lng": 80.85191,
+    "population": 53409
   },
   {
     "region_id": "LK-33-Beliatta",
     "region_name": "Beliatta",
     "district_id": "LK-33",
     "centroid_lat": 6.051037,
-    "centroid_lng": 80.720544
+    "centroid_lng": 80.720544,
+    "population": 58675
   },
   {
     "region_id": "LK-33-Hambantota",
     "region_name": "Hambantota",
     "district_id": "LK-33",
     "centroid_lat": 6.204873,
-    "centroid_lng": 81.121585
+    "centroid_lng": 81.121585,
+    "population": 67207
   },
   {
     "region_id": "LK-33-Katuwana",
     "region_name": "Katuwana",
     "district_id": "LK-33",
     "centroid_lat": 6.263837,
-    "centroid_lng": 80.715709
+    "centroid_lng": 80.715709,
+    "population": 52169
   },
   {
     "region_id": "LK-33-Lunugamvehera",
     "region_name": "Lunugamvehera",
     "district_id": "LK-33",
     "centroid_lat": 6.332067,
-    "centroid_lng": 81.166348
+    "centroid_lng": 81.166348,
+    "population": 36487
   },
   {
     "region_id": "LK-33-Okewela",
     "region_name": "Okewela",
     "district_id": "LK-33",
     "centroid_lat": 6.130422,
-    "centroid_lng": 80.693099
+    "centroid_lng": 80.693099,
+    "population": 19992
   },
   {
     "region_id": "LK-33-Sooriyawewa",
     "region_name": "Sooriyawewa",
     "district_id": "LK-33",
     "centroid_lat": 6.29174,
-    "centroid_lng": 81.01411
+    "centroid_lng": 81.01411,
+    "population": 52709
   },
   {
     "region_id": "LK-33-Tangalle",
     "region_name": "Tangalle",
     "district_id": "LK-33",
     "centroid_lat": 6.071591,
-    "centroid_lng": 80.826067
+    "centroid_lng": 80.826067,
+    "population": 79543
   },
   {
     "region_id": "LK-33-Tissamaharama",
     "region_name": "Tissamaharama",
     "district_id": "LK-33",
     "centroid_lat": 6.380714,
-    "centroid_lng": 81.453725
+    "centroid_lng": 81.453725,
+    "population": 74611
   },
   {
     "region_id": "LK-33-Walasmulla",
     "region_name": "Walasmulla",
     "district_id": "LK-33",
     "centroid_lat": 6.1996,
-    "centroid_lng": 80.681765
+    "centroid_lng": 80.681765,
+    "population": 47869
   },
   {
     "region_id": "LK-33-Weeraketiya",
     "region_name": "Weeraketiya",
     "district_id": "LK-33",
     "centroid_lat": 6.172037,
-    "centroid_lng": 80.772005
+    "centroid_lng": 80.772005,
+    "population": 48241
   },
   {
     "region_id": "LK-41-Chankanai",
     "region_name": "Chankanai",
     "district_id": "LK-41",
     "centroid_lat": 9.741712,
-    "centroid_lng": 79.945662
+    "centroid_lng": 79.945662,
+    "population": 44015
   },
   {
     "region_id": "LK-41-Chavakachcheri",
     "region_name": "Chavakachcheri",
     "district_id": "LK-41",
     "centroid_lat": 9.677008,
-    "centroid_lng": 80.190646
+    "centroid_lng": 80.190646,
+    "population": 67782
   },
   {
     "region_id": "LK-41-Jaffna",
     "region_name": "Jaffna",
     "district_id": "LK-41",
     "centroid_lat": 9.66349,
-    "centroid_lng": 80.021338
+    "centroid_lng": 80.021338,
+    "population": 48543
   },
   {
     "region_id": "LK-41-Karaveddy",
     "region_name": "Karaveddy",
     "district_id": "LK-41",
     "centroid_lat": 9.77598,
-    "centroid_lng": 80.184317
+    "centroid_lng": 80.184317,
+    "population": 41102
   },
   {
     "region_id": "LK-41-Kayts",
     "region_name": "Kayts",
     "district_id": "LK-41",
     "centroid_lat": 9.616664,
-    "centroid_lng": 79.831833
+    "centroid_lng": 79.831833,
+    "population": 38820
   },
   {
     "region_id": "LK-41-Kopay",
     "region_name": "Kopay",
     "district_id": "LK-41",
     "centroid_lat": 9.737645,
-    "centroid_lng": 80.096594
+    "centroid_lng": 80.096594,
+    "population": 75979
   },
   {
     "region_id": "LK-41-Nallur",
     "region_name": "Nallur",
     "district_id": "LK-41",
     "centroid_lat": 9.668871,
-    "centroid_lng": 80.048436
+    "centroid_lng": 80.048436,
+    "population": 72884
   },
   {
     "region_id": "LK-41-Point-Pedro",
     "region_name": "Point Pedro",
     "district_id": "LK-41",
     "centroid_lat": 9.644875,
-    "centroid_lng": 80.378188
+    "centroid_lng": 80.378188,
+    "population": 56906
   },
   {
     "region_id": "LK-41-Sandilipay",
     "region_name": "Sandilipay",
     "district_id": "LK-41",
     "centroid_lat": 9.750952,
-    "centroid_lng": 79.980452
+    "centroid_lng": 79.980452,
+    "population": 53266
   },
   {
     "region_id": "LK-41-Tellipalai",
     "region_name": "Tellipalai",
     "district_id": "LK-41",
     "centroid_lat": 9.78878,
-    "centroid_lng": 80.040562
+    "centroid_lng": 80.040562,
+    "population": 45794
   },
   {
     "region_id": "LK-41-Uduvil",
     "region_name": "Uduvil",
     "district_id": "LK-41",
     "centroid_lat": 9.744485,
-    "centroid_lng": 80.034377
+    "centroid_lng": 80.034377,
+    "population": 49660
   },
   {
     "region_id": "LK-42-Madhu",
     "region_name": "Madhu",
     "district_id": "LK-42",
     "centroid_lat": 8.845824,
-    "centroid_lng": 80.225307
+    "centroid_lng": 80.225307,
+    "population": 9493
   },
   {
     "region_id": "LK-42-Mannar-Town",
     "region_name": "Mannar Town",
     "district_id": "LK-42",
     "centroid_lat": 8.990592,
-    "centroid_lng": 79.888907
+    "centroid_lng": 79.888907,
+    "population": 57772
   },
   {
     "region_id": "LK-42-Manthai-West",
     "region_name": "Manthai West",
     "district_id": "LK-42",
     "centroid_lat": 9.027313,
-    "centroid_lng": 80.112093
+    "centroid_lng": 80.112093,
+    "population": 18674
   },
   {
     "region_id": "LK-42-Musalai",
     "region_name": "Musalai",
     "district_id": "LK-42",
     "centroid_lat": 8.676536,
-    "centroid_lng": 80.020926
+    "centroid_lng": 80.020926,
+    "population": 16937
   },
   {
     "region_id": "LK-42-Nanattan",
     "region_name": "Nanattan",
     "district_id": "LK-42",
     "centroid_lat": 8.83685,
-    "centroid_lng": 79.992485
+    "centroid_lng": 79.992485,
+    "population": 20880
   },
   {
     "region_id": "LK-43-Cheddikulam",
     "region_name": "Cheddikulam",
     "district_id": "LK-43",
     "centroid_lat": 8.693165,
-    "centroid_lng": 80.296167
+    "centroid_lng": 80.296167,
+    "population": 25770
   },
   {
     "region_id": "LK-43-Vavuniya",
     "region_name": "Vavuniya",
     "district_id": "LK-43",
     "centroid_lat": 8.833816,
-    "centroid_lng": 80.456461
+    "centroid_lng": 80.456461,
+    "population": 116991
   },
   {
     "region_id": "LK-43-Vavuniya-North",
     "region_name": "Vavuniya North",
     "district_id": "LK-43",
     "centroid_lat": 9.002936,
-    "centroid_lng": 80.578753
+    "centroid_lng": 80.578753,
+    "population": 14709
   },
   {
     "region_id": "LK-43-Vavuniya-South",
     "region_name": "Vavuniya South",
     "district_id": "LK-43",
     "centroid_lat": 8.733856,
-    "centroid_lng": 80.510969
+    "centroid_lng": 80.510969,
+    "population": 14842
   },
   {
     "region_id": "LK-43-Welioya",
     "region_name": "Welioya",
     "district_id": "LK-43",
     "centroid_lat": 8.985349,
-    "centroid_lng": 80.749594
+    "centroid_lng": 80.749594,
+    "population": 5946
   },
   {
     "region_id": "LK-44-Mallavi",
     "region_name": "Mallavi",
     "district_id": "LK-44",
     "centroid_lat": 9.221339,
-    "centroid_lng": 80.286475
+    "centroid_lng": 80.286475,
+    "population": 10410
   },
   {
     "region_id": "LK-44-Manthai-East",
     "region_name": "Manthai East",
     "district_id": "LK-44",
     "centroid_lat": 9.053687,
-    "centroid_lng": 80.30991
+    "centroid_lng": 80.30991,
+    "population": 7650
   },
   {
     "region_id": "LK-44-Mullaitivu",
     "region_name": "Mullaitivu",
     "district_id": "LK-44",
     "centroid_lat": 9.14361,
-    "centroid_lng": 80.796661
+    "centroid_lng": 80.796661,
+    "population": 40552
   },
   {
     "region_id": "LK-44-Oddusuddan",
     "region_name": "Oddusuddan",
     "district_id": "LK-44",
     "centroid_lat": 9.20078,
-    "centroid_lng": 80.532971
+    "centroid_lng": 80.532971,
+    "population": 18149
   },
   {
     "region_id": "LK-44-Puthukkudiyiruppu",
     "region_name": "Puthukkudiyiruppu",
     "district_id": "LK-44",
     "centroid_lat": 9.313855,
-    "centroid_lng": 80.636692
+    "centroid_lng": 80.636692,
+    "population": 39532
   },
   {
     "region_id": "LK-45-Kandawalai",
     "region_name": "Kandawalai",
     "district_id": "LK-45",
     "centroid_lat": 9.451642,
-    "centroid_lng": 80.488637
+    "centroid_lng": 80.488637,
+    "population": 21046
   },
   {
     "region_id": "LK-45-Kilinochchi",
     "region_name": "Kilinochchi",
     "district_id": "LK-45",
     "centroid_lat": 9.363992,
-    "centroid_lng": 80.335411
+    "centroid_lng": 80.335411,
+    "population": 80127
   },
   {
     "region_id": "LK-45-Palai",
     "region_name": "Palai",
     "district_id": "LK-45",
     "centroid_lat": 9.591585,
-    "centroid_lng": 80.356701
+    "centroid_lng": 80.356701,
+    "population": 13045
   },
   {
     "region_id": "LK-45-Poonakary",
     "region_name": "Poonakary",
     "district_id": "LK-45",
     "centroid_lat": 9.395242,
-    "centroid_lng": 80.165655
+    "centroid_lng": 80.165655,
+    "population": 22492
   },
   {
     "region_id": "LK-51-Arayampathy",
     "region_name": "Arayampathy",
     "district_id": "LK-51",
     "centroid_lat": 7.638083,
-    "centroid_lng": 81.753896
+    "centroid_lng": 81.753896,
+    "population": 35551
   },
   {
     "region_id": "LK-51-Batticaloa",
     "region_name": "Batticaloa",
     "district_id": "LK-51",
     "centroid_lat": 7.721828,
-    "centroid_lng": 81.687813
+    "centroid_lng": 81.687813,
+    "population": 85114
   },
   {
     "region_id": "LK-51-Chenkalady",
     "region_name": "Chenkalady",
     "district_id": "LK-51",
     "centroid_lat": 7.703677,
-    "centroid_lng": 81.480485
+    "centroid_lng": 81.480485,
+    "population": 77192
   },
   {
     "region_id": "LK-51-Eravur",
     "region_name": "Eravur",
     "district_id": "LK-51",
     "centroid_lat": 7.793248,
-    "centroid_lng": 81.615751
+    "centroid_lng": 81.615751,
+    "population": 39491
   },
   {
     "region_id": "LK-51-Kaluwanchikudy",
     "region_name": "Kaluwanchikudy",
     "district_id": "LK-51",
     "centroid_lat": 7.517823,
-    "centroid_lng": 81.791419
+    "centroid_lng": 81.791419,
+    "population": 63472
   },
   {
     "region_id": "LK-51-Kattankudy",
     "region_name": "Kattankudy",
     "district_id": "LK-51",
     "centroid_lat": 7.682527,
-    "centroid_lng": 81.731483
+    "centroid_lng": 81.731483,
+    "population": 50005
   },
   {
     "region_id": "LK-51-Kiran",
     "region_name": "Kiran",
     "district_id": "LK-51",
     "centroid_lat": 7.924843,
-    "centroid_lng": 81.49296
+    "centroid_lng": 81.49296,
+    "population": 27469
   },
   {
     "region_id": "LK-51-Koralaipattu-(-Oddmavadi-Central-)",
     "region_name": "Koralaipattu ( Oddmavadi Central )",
     "district_id": "LK-51",
     "centroid_lat": 7.896479,
-    "centroid_lng": 81.52437
+    "centroid_lng": 81.52437,
+    "population": 27717
   },
   {
     "region_id": "LK-51-Ottamavadi",
     "region_name": "Ottamavadi",
     "district_id": "LK-51",
     "centroid_lat": 7.905581,
-    "centroid_lng": 81.546989
+    "centroid_lng": 81.546989,
+    "population": 28762
   },
   {
     "region_id": "LK-51-Paddipalai",
     "region_name": "Paddipalai",
     "district_id": "LK-51",
     "centroid_lat": 7.563989,
-    "centroid_lng": 81.65907
+    "centroid_lng": 81.65907,
+    "population": 26676
   },
   {
     "region_id": "LK-51-Vakarai",
     "region_name": "Vakarai",
     "district_id": "LK-51",
     "centroid_lat": 8.085571,
-    "centroid_lng": 81.394527
+    "centroid_lng": 81.394527,
+    "population": 25475
   },
   {
     "region_id": "LK-51-Valaichenai",
     "region_name": "Valaichenai",
     "district_id": "LK-51",
     "centroid_lat": 7.855622,
-    "centroid_lng": 81.369917
+    "centroid_lng": 81.369917,
+    "population": 30962
   },
   {
     "region_id": "LK-51-Vavunathivu",
     "region_name": "Vavunathivu",
     "district_id": "LK-51",
     "centroid_lat": 7.63249,
-    "centroid_lng": 81.600076
+    "centroid_lng": 81.600076,
+    "population": 31558
   },
   {
     "region_id": "LK-51-Vellaveli",
     "region_name": "Vellaveli",
     "district_id": "LK-51",
     "centroid_lat": 7.498017,
-    "centroid_lng": 81.708049
+    "centroid_lng": 81.708049,
+    "population": 38627
   },
   {
     "region_id": "LK-52-Addachchenai",
     "region_name": "Addachchenai",
     "district_id": "LK-52",
     "centroid_lat": 7.266133,
-    "centroid_lng": 81.822078
+    "centroid_lng": 81.822078,
+    "population": 54874
   },
   {
     "region_id": "LK-52-Akkaraipattu",
     "region_name": "Akkaraipattu",
     "district_id": "LK-52",
     "centroid_lat": 7.209158,
-    "centroid_lng": 81.783288
+    "centroid_lng": 81.783288,
+    "population": 37173
   },
   {
     "region_id": "LK-52-Alayadivembu",
     "region_name": "Alayadivembu",
     "district_id": "LK-52",
     "centroid_lat": 7.17371,
-    "centroid_lng": 81.806138
+    "centroid_lng": 81.806138,
+    "population": 28096
   },
   {
     "region_id": "LK-52-Ampara",
     "region_name": "Ampara",
     "district_id": "LK-52",
     "centroid_lat": 7.291532,
-    "centroid_lng": 81.597145
+    "centroid_lng": 81.597145,
+    "population": 37604
   },
   {
     "region_id": "LK-52-Damana",
     "region_name": "Damana",
     "district_id": "LK-52",
     "centroid_lat": 7.125334,
-    "centroid_lng": 81.641047
+    "centroid_lng": 81.641047,
+    "population": 48364
   },
   {
     "region_id": "LK-52-Dehiyathakandiya",
     "region_name": "Dehiyathakandiya",
     "district_id": "LK-52",
     "centroid_lat": 7.621715,
-    "centroid_lng": 81.084627
+    "centroid_lng": 81.084627,
+    "population": 67274
   },
   {
     "region_id": "LK-52-Irakkamam",
     "region_name": "Irakkamam",
     "district_id": "LK-52",
     "centroid_lat": 7.242602,
-    "centroid_lng": 81.727707
+    "centroid_lng": 81.727707,
+    "population": 18751
   },
   {
     "region_id": "LK-52-Kalmunai-South-(-Muslim-Div-)",
     "region_name": "Kalmunai South ( Muslim Div )",
     "district_id": "LK-52",
     "centroid_lat": 7.414037,
-    "centroid_lng": 81.824921
+    "centroid_lng": 81.824921,
+    "population": 41899
   },
   {
     "region_id": "LK-52-Kalnumai-North-(-Tamil-Div-)",
     "region_name": "Kalnumai North ( Tamil Div )",
     "district_id": "LK-52",
     "centroid_lat": 7.418038,
-    "centroid_lng": 81.81152
+    "centroid_lng": 81.81152,
+    "population": 50674
   },
   {
     "region_id": "LK-52-Karaithivu",
     "region_name": "Karaithivu",
     "district_id": "LK-52",
     "centroid_lat": 7.372011,
-    "centroid_lng": 81.834069
+    "centroid_lng": 81.834069,
+    "population": 19493
   },
   {
     "region_id": "LK-52-Lahugala",
     "region_name": "Lahugala",
     "district_id": "LK-52",
     "centroid_lat": 6.751722,
-    "centroid_lng": 81.699187
+    "centroid_lng": 81.699187,
+    "population": 10416
   },
   {
     "region_id": "LK-52-Mahaoya",
     "region_name": "Mahaoya",
     "district_id": "LK-52",
     "centroid_lat": 7.561151,
-    "centroid_lng": 81.348683
+    "centroid_lng": 81.348683,
+    "population": 23715
   },
   {
     "region_id": "LK-52-Navithanveli",
     "region_name": "Navithanveli",
     "district_id": "LK-52",
     "centroid_lat": 7.42677,
-    "centroid_lng": 81.763698
+    "centroid_lng": 81.763698,
+    "population": 22380
   },
   {
     "region_id": "LK-52-Ninthavur",
     "region_name": "Ninthavur",
     "district_id": "LK-52",
     "centroid_lat": 7.327276,
-    "centroid_lng": 81.840794
+    "centroid_lng": 81.840794,
+    "population": 30671
   },
   {
     "region_id": "LK-52-Padiyathalawa",
     "region_name": "Padiyathalawa",
     "district_id": "LK-52",
     "centroid_lat": 7.427631,
-    "centroid_lng": 81.260841
+    "centroid_lng": 81.260841,
+    "population": 20834
   },
   {
     "region_id": "LK-52-Pottuvil",
     "region_name": "Pottuvil",
     "district_id": "LK-52",
     "centroid_lat": 6.943233,
-    "centroid_lng": 81.801421
+    "centroid_lng": 81.801421,
+    "population": 43283
   },
   {
     "region_id": "LK-52-Sainthamaruthu",
     "region_name": "Sainthamaruthu",
     "district_id": "LK-52",
     "centroid_lat": 7.389525,
-    "centroid_lng": 81.833201
+    "centroid_lng": 81.833201,
+    "population": 19409
   },
   {
     "region_id": "LK-52-Sammanthurai",
     "region_name": "Sammanthurai",
     "district_id": "LK-52",
     "centroid_lat": 7.330242,
-    "centroid_lng": 81.765336
+    "centroid_lng": 81.765336,
+    "population": 72270
   },
   {
     "region_id": "LK-52-Thirukkovil",
     "region_name": "Thirukkovil",
     "district_id": "LK-52",
     "centroid_lat": 7.094215,
-    "centroid_lng": 81.796951
+    "centroid_lng": 81.796951,
+    "population": 28546
   },
   {
     "region_id": "LK-52-Uhana",
     "region_name": "Uhana",
     "district_id": "LK-52",
     "centroid_lat": 7.404125,
-    "centroid_lng": 81.591396
+    "centroid_lng": 81.591396,
+    "population": 64683
   },
   {
     "region_id": "LK-53-Eachchilampatru",
     "region_name": "Eachchilampatru",
     "district_id": "LK-53",
     "centroid_lat": 8.312837,
-    "centroid_lng": 81.359418
+    "centroid_lng": 81.359418,
+    "population": 14441
   },
   {
     "region_id": "LK-53-Gomarankadawala",
     "region_name": "Gomarankadawala",
     "district_id": "LK-53",
     "centroid_lat": 8.683455,
-    "centroid_lng": 80.994434
+    "centroid_lng": 80.994434,
+    "population": 17591
   },
   {
     "region_id": "LK-53-Kanthale",
     "region_name": "Kanthale",
     "district_id": "LK-53",
     "centroid_lat": 8.345926,
-    "centroid_lng": 81.057222
+    "centroid_lng": 81.057222,
+    "population": 50840
   },
   {
     "region_id": "LK-53-Kinniya",
     "region_name": "Kinniya",
     "district_id": "LK-53",
     "centroid_lat": 8.432567,
-    "centroid_lng": 81.164019
+    "centroid_lng": 81.164019,
+    "population": 83270
   },
   {
     "region_id": "LK-53-Kuchchaveli",
     "region_name": "Kuchchaveli",
     "district_id": "LK-53",
     "centroid_lat": 8.81629,
-    "centroid_lng": 81.043004
+    "centroid_lng": 81.043004,
+    "population": 40791
   },
   {
     "region_id": "LK-53-Muthur",
     "region_name": "Muthur",
     "district_id": "LK-53",
     "centroid_lat": 8.429544,
-    "centroid_lng": 81.29227
+    "centroid_lng": 81.29227,
+    "population": 72373
   },
   {
     "region_id": "LK-53-Padavi-Sri-Pura",
     "region_name": "Padavi Sri Pura",
     "district_id": "LK-53",
     "centroid_lat": 8.915209,
-    "centroid_lng": 80.852197
+    "centroid_lng": 80.852197,
+    "population": 11163
   },
   {
     "region_id": "LK-53-Seruvila",
     "region_name": "Seruvila",
     "district_id": "LK-53",
     "centroid_lat": 8.29799,
-    "centroid_lng": 81.251456
+    "centroid_lng": 81.251456,
+    "population": 15136
   },
   {
     "region_id": "LK-53-Thampalagamam",
     "region_name": "Thampalagamam",
     "district_id": "LK-53",
     "centroid_lat": 8.501033,
-    "centroid_lng": 81.042362
+    "centroid_lng": 81.042362,
+    "population": 36870
   },
   {
     "region_id": "LK-53-Trincomalee",
     "region_name": "Trincomalee",
     "district_id": "LK-53",
     "centroid_lat": 8.570236,
-    "centroid_lng": 81.227613
+    "centroid_lng": 81.227613,
+    "population": 44182
   },
   {
     "region_id": "LK-53-Uppuveli",
     "region_name": "Uppuveli",
     "district_id": "LK-53",
     "centroid_lat": 8.58498,
-    "centroid_lng": 81.170393
+    "centroid_lng": 81.170393,
+    "population": 56088
   },
   {
     "region_id": "LK-61-Alawwa",
     "region_name": "Alawwa",
     "district_id": "LK-61",
     "centroid_lat": 7.328914,
-    "centroid_lng": 80.217317
+    "centroid_lng": 80.217317,
+    "population": 65689
   },
   {
     "region_id": "LK-61-Ambanpola",
     "region_name": "Ambanpola",
     "district_id": "LK-61",
     "centroid_lat": 7.907984,
-    "centroid_lng": 80.223922
+    "centroid_lng": 80.223922,
+    "population": 25515
   },
   {
     "region_id": "LK-61-Bamunukotuwa",
     "region_name": "Bamunukotuwa",
     "district_id": "LK-61",
     "centroid_lat": 7.546292,
-    "centroid_lng": 80.270274
+    "centroid_lng": 80.270274,
+    "population": 28859
   },
   {
     "region_id": "LK-61-Bingiriya",
     "region_name": "Bingiriya",
     "district_id": "LK-61",
     "centroid_lat": 7.606994,
-    "centroid_lng": 79.969096
+    "centroid_lng": 79.969096,
+    "population": 66724
   },
   {
     "region_id": "LK-61-Galgamuwa",
     "region_name": "Galgamuwa",
     "district_id": "LK-61",
     "centroid_lat": 7.997599,
-    "centroid_lng": 80.296789
+    "centroid_lng": 80.296789,
+    "population": 90076
   },
   {
     "region_id": "LK-61-Ganewatta",
     "region_name": "Ganewatta",
     "district_id": "LK-61",
     "centroid_lat": 7.656627,
-    "centroid_lng": 80.369957
+    "centroid_lng": 80.369957,
+    "population": 43431
   },
   {
     "region_id": "LK-61-Giribawa",
     "region_name": "Giribawa",
     "district_id": "LK-61",
     "centroid_lat": 8.104203,
-    "centroid_lng": 80.183704
+    "centroid_lng": 80.183704,
+    "population": 34929
   },
   {
     "region_id": "LK-61-Ibbagamuwa",
     "region_name": "Ibbagamuwa",
     "district_id": "LK-61",
     "centroid_lat": 7.618183,
-    "centroid_lng": 80.47127
+    "centroid_lng": 80.47127,
+    "population": 94167
   },
   {
     "region_id": "LK-61-Katupotha",
     "region_name": "Katupotha",
     "district_id": "LK-61",
     "centroid_lat": 7.550898,
-    "centroid_lng": 80.214074
+    "centroid_lng": 80.214074,
+    "population": 10583
   },
   {
     "region_id": "LK-61-Kobeigane",
     "region_name": "Kobeigane",
     "district_id": "LK-61",
     "centroid_lat": 7.684315,
-    "centroid_lng": 80.100893
+    "centroid_lng": 80.100893,
+    "population": 40669
   },
   {
     "region_id": "LK-61-Kotawehera",
     "region_name": "Kotawehera",
     "district_id": "LK-61",
     "centroid_lat": 7.864034,
-    "centroid_lng": 80.122993
+    "centroid_lng": 80.122993,
+    "population": 24031
   },
   {
     "region_id": "LK-61-Kuliyapitiya",
     "region_name": "Kuliyapitiya",
     "district_id": "LK-61",
     "centroid_lat": 7.471778,
-    "centroid_lng": 80.101417
+    "centroid_lng": 80.101417,
+    "population": 143810
   },
   {
     "region_id": "LK-61-Kurunegala",
     "region_name": "Kurunegala",
     "district_id": "LK-61",
     "centroid_lat": 7.513417,
-    "centroid_lng": 80.35325
+    "centroid_lng": 80.35325,
+    "population": 88638
   },
   {
     "region_id": "LK-61-Mahawa",
     "region_name": "Mahawa",
     "district_id": "LK-61",
     "centroid_lat": 7.80544,
-    "centroid_lng": 80.290572
+    "centroid_lng": 80.290572,
+    "population": 64122
   },
   {
     "region_id": "LK-61-Mallawapitiya",
     "region_name": "Mallawapitiya",
     "district_id": "LK-61",
     "centroid_lat": 7.466464,
-    "centroid_lng": 80.390766
+    "centroid_lng": 80.390766,
+    "population": 59491
   },
   {
     "region_id": "LK-61-Maspotha",
     "region_name": "Maspotha",
     "district_id": "LK-61",
     "centroid_lat": 7.557052,
-    "centroid_lng": 80.324915
+    "centroid_lng": 80.324915,
+    "population": 42224
   },
   {
     "region_id": "LK-61-Mawathagama",
     "region_name": "Mawathagama",
     "district_id": "LK-61",
     "centroid_lat": 7.42511,
-    "centroid_lng": 80.446315
+    "centroid_lng": 80.446315,
+    "population": 70867
   },
   {
     "region_id": "LK-61-Narammala",
     "region_name": "Narammala",
     "district_id": "LK-61",
     "centroid_lat": 7.398001,
-    "centroid_lng": 80.193657
+    "centroid_lng": 80.193657,
+    "population": 59806
   },
   {
     "region_id": "LK-61-Nikaweratiya",
     "region_name": "Nikaweratiya",
     "district_id": "LK-61",
     "centroid_lat": 7.764239,
-    "centroid_lng": 80.091747
+    "centroid_lng": 80.091747,
+    "population": 68314
   },
   {
     "region_id": "LK-61-Panduwasnuwara",
     "region_name": "Panduwasnuwara",
     "district_id": "LK-61",
     "centroid_lat": 7.58405,
-    "centroid_lng": 80.10197
+    "centroid_lng": 80.10197,
+    "population": 102976
   },
   {
     "region_id": "LK-61-Pannala",
     "region_name": "Pannala",
     "district_id": "LK-61",
     "centroid_lat": 7.362602,
-    "centroid_lng": 80.031342
+    "centroid_lng": 80.031342,
+    "population": 135845
   },
   {
     "region_id": "LK-61-Polgahawela",
     "region_name": "Polgahawela",
     "district_id": "LK-61",
     "centroid_lat": 7.374766,
-    "centroid_lng": 80.309739
+    "centroid_lng": 80.309739,
+    "population": 66736
   },
   {
     "region_id": "LK-61-Polpithigama",
     "region_name": "Polpithigama",
     "district_id": "LK-61",
     "centroid_lat": 7.803225,
-    "centroid_lng": 80.427557
+    "centroid_lng": 80.427557,
+    "population": 86411
   },
   {
     "region_id": "LK-61-Rideegama",
     "region_name": "Rideegama",
     "district_id": "LK-61",
     "centroid_lat": 7.517402,
-    "centroid_lng": 80.518846
+    "centroid_lng": 80.518846,
+    "population": 95960
   },
   {
     "region_id": "LK-61-Udubaddawa",
     "region_name": "Udubaddawa",
     "district_id": "LK-61",
     "centroid_lat": 7.480278,
-    "centroid_lng": 79.94713
+    "centroid_lng": 79.94713,
+    "population": 54466
   },
   {
     "region_id": "LK-61-Wariyapola",
     "region_name": "Wariyapola",
     "district_id": "LK-61",
     "centroid_lat": 7.661859,
-    "centroid_lng": 80.239593
+    "centroid_lng": 80.239593,
+    "population": 67227
   },
   {
     "region_id": "LK-61-Weerambugedara",
     "region_name": "Weerambugedara",
     "district_id": "LK-61",
     "centroid_lat": 7.465627,
-    "centroid_lng": 80.271793
+    "centroid_lng": 80.271793,
+    "population": 36590
   },
   {
     "region_id": "LK-62-Anamaduwa",
     "region_name": "Anamaduwa",
     "district_id": "LK-62",
     "centroid_lat": 7.879957,
-    "centroid_lng": 79.960144
+    "centroid_lng": 79.960144,
+    "population": 64436
   },
   {
     "region_id": "LK-62-Arachchikattuwa",
     "region_name": "Arachchikattuwa",
     "district_id": "LK-62",
     "centroid_lat": 7.680009,
-    "centroid_lng": 79.849219
+    "centroid_lng": 79.849219,
+    "population": 42749
   },
   {
     "region_id": "LK-62-Chilaw",
     "region_name": "Chilaw",
     "district_id": "LK-62",
     "centroid_lat": 7.548853,
-    "centroid_lng": 79.85149
+    "centroid_lng": 79.85149,
+    "population": 112633
   },
   {
     "region_id": "LK-62-Dankotuwa",
     "region_name": "Dankotuwa",
     "district_id": "LK-62",
     "centroid_lat": 7.320855,
-    "centroid_lng": 79.90604
+    "centroid_lng": 79.90604,
+    "population": 62873
   },
   {
     "region_id": "LK-62-Kalpitiya",
     "region_name": "Kalpitiya",
     "district_id": "LK-62",
     "centroid_lat": 8.124325,
-    "centroid_lng": 79.741326
+    "centroid_lng": 79.741326,
+    "population": 95874
   },
   {
     "region_id": "LK-62-Karuwalagaswewa",
     "region_name": "Karuwalagaswewa",
     "district_id": "LK-62",
     "centroid_lat": 8.092582,
-    "centroid_lng": 80.022602
+    "centroid_lng": 80.022602,
+    "population": 43796
   },
   {
     "region_id": "LK-62-Mahawewa",
     "region_name": "Mahawewa",
     "district_id": "LK-62",
     "centroid_lat": 7.454821,
-    "centroid_lng": 79.851052
+    "centroid_lng": 79.851052,
+    "population": 48833
   },
   {
     "region_id": "LK-62-Mundalama",
     "region_name": "Mundalama",
     "district_id": "LK-62",
     "centroid_lat": 7.859702,
-    "centroid_lng": 79.813887
+    "centroid_lng": 79.813887,
+    "population": 72570
   },
   {
     "region_id": "LK-62-Nattandiya",
     "region_name": "Nattandiya",
     "district_id": "LK-62",
     "centroid_lat": 7.395989,
-    "centroid_lng": 79.874087
+    "centroid_lng": 79.874087,
+    "population": 65500
   },
   {
     "region_id": "LK-62-Pallama",
     "region_name": "Pallama",
     "district_id": "LK-62",
     "centroid_lat": 7.72829,
-    "centroid_lng": 79.931597
+    "centroid_lng": 79.931597,
+    "population": 27938
   },
   {
     "region_id": "LK-62-Puttalam",
     "region_name": "Puttalam",
     "district_id": "LK-62",
     "centroid_lat": 8.280536,
-    "centroid_lng": 79.900954
+    "centroid_lng": 79.900954,
+    "population": 115725
   },
   {
     "region_id": "LK-62-Wennappuwa",
     "region_name": "Wennappuwa",
     "district_id": "LK-62",
     "centroid_lat": 7.324422,
-    "centroid_lng": 79.85488
+    "centroid_lng": 79.85488,
+    "population": 64768
   },
   {
     "region_id": "LK-71-Galenbidunuwawe",
     "region_name": "Galenbidunuwawe",
     "district_id": "LK-71",
     "centroid_lat": 8.266309,
-    "centroid_lng": 80.70699
+    "centroid_lng": 80.70699,
+    "population": 51952
   },
   {
     "region_id": "LK-71-Galnewa",
     "region_name": "Galnewa",
     "district_id": "LK-71",
     "centroid_lat": 8.019186,
-    "centroid_lng": 80.449899
+    "centroid_lng": 80.449899,
+    "population": 39458
   },
   {
     "region_id": "LK-71-Horowpothana",
     "region_name": "Horowpothana",
     "district_id": "LK-71",
     "centroid_lat": 8.512128,
-    "centroid_lng": 80.850715
+    "centroid_lng": 80.850715,
+    "population": 41261
   },
   {
     "region_id": "LK-71-Ipalogama",
     "region_name": "Ipalogama",
     "district_id": "LK-71",
     "centroid_lat": 8.085964,
-    "centroid_lng": 80.507896
+    "centroid_lng": 80.507896,
+    "population": 41961
   },
   {
     "region_id": "LK-71-Kahatagasdigiliya",
     "region_name": "Kahatagasdigiliya",
     "district_id": "LK-71",
     "centroid_lat": 8.422779,
-    "centroid_lng": 80.711598
+    "centroid_lng": 80.711598,
+    "population": 44903
   },
   {
     "region_id": "LK-71-Kebithigollewa",
     "region_name": "Kebithigollewa",
     "district_id": "LK-71",
     "centroid_lat": 8.717666,
-    "centroid_lng": 80.7092
+    "centroid_lng": 80.7092,
+    "population": 26432
   },
   {
     "region_id": "LK-71-Kekirawa",
     "region_name": "Kekirawa",
     "district_id": "LK-71",
     "centroid_lat": 8.067231,
-    "centroid_lng": 80.659304
+    "centroid_lng": 80.659304,
+    "population": 82190
   },
   {
     "region_id": "LK-71-Medawachchiya",
     "region_name": "Medawachchiya",
     "district_id": "LK-71",
     "centroid_lat": 8.588662,
-    "centroid_lng": 80.496945
+    "centroid_lng": 80.496945,
+    "population": 52496
   },
   {
     "region_id": "LK-71-Mihintale",
     "region_name": "Mihintale",
     "district_id": "LK-71",
     "centroid_lat": 8.350022,
-    "centroid_lng": 80.543093
+    "centroid_lng": 80.543093,
+    "population": 44107
   },
   {
     "region_id": "LK-71-Nochchiyagama",
     "region_name": "Nochchiyagama",
     "district_id": "LK-71",
     "centroid_lat": 8.332175,
-    "centroid_lng": 80.124773
+    "centroid_lng": 80.124773,
+    "population": 55471
   },
   {
     "region_id": "LK-71-Nuwaragam-Palatha-Central",
     "region_name": "Nuwaragam Palatha Central",
     "district_id": "LK-71",
     "centroid_lat": 8.491237,
-    "centroid_lng": 80.247194
+    "centroid_lng": 80.247194,
+    "population": 95723
   },
   {
     "region_id": "LK-71-Nuwaragam-Palatha-East",
     "region_name": "Nuwaragam Palatha East",
     "district_id": "LK-71",
     "centroid_lat": 8.283094,
-    "centroid_lng": 80.42571
+    "centroid_lng": 80.42571,
+    "population": 100781
   },
   {
     "region_id": "LK-71-Padaviya",
     "region_name": "Padaviya",
     "district_id": "LK-71",
     "centroid_lat": 8.851858,
-    "centroid_lng": 80.7842
+    "centroid_lng": 80.7842,
+    "population": 24493
   },
   {
     "region_id": "LK-71-Palagala",
     "region_name": "Palagala",
     "district_id": "LK-71",
     "centroid_lat": 7.906174,
-    "centroid_lng": 80.5378
+    "centroid_lng": 80.5378,
+    "population": 38469
   },
   {
     "region_id": "LK-71-Rajanganaya",
     "region_name": "Rajanganaya",
     "district_id": "LK-71",
     "centroid_lat": 8.18307,
-    "centroid_lng": 80.183654
+    "centroid_lng": 80.183654,
+    "population": 36236
   },
   {
     "region_id": "LK-71-Rambewa",
     "region_name": "Rambewa",
     "district_id": "LK-71",
     "centroid_lat": 8.475726,
-    "centroid_lng": 80.550666
+    "centroid_lng": 80.550666,
+    "population": 39861
   },
   {
     "region_id": "LK-71-Thalawa",
     "region_name": "Thalawa",
     "district_id": "LK-71",
     "centroid_lat": 8.184298,
-    "centroid_lng": 80.377227
+    "centroid_lng": 80.377227,
+    "population": 60237
   },
   {
     "region_id": "LK-71-Thambuttegama",
     "region_name": "Thambuttegama",
     "district_id": "LK-71",
     "centroid_lat": 8.15555,
-    "centroid_lng": 80.316295
+    "centroid_lng": 80.316295,
+    "population": 47061
   },
   {
     "region_id": "LK-71-Thirappane",
     "region_name": "Thirappane",
     "district_id": "LK-71",
     "centroid_lat": 8.207994,
-    "centroid_lng": 80.549097
+    "centroid_lng": 80.549097,
+    "population": 35723
   },
   {
     "region_id": "LK-72-Dimbulagala",
     "region_name": "Dimbulagala",
     "district_id": "LK-72",
     "centroid_lat": 7.78578,
-    "centroid_lng": 81.124905
+    "centroid_lng": 81.124905,
+    "population": 85907
   },
   {
     "region_id": "LK-72-Elahera",
     "region_name": "Elahera",
     "district_id": "LK-72",
     "centroid_lat": 7.810587,
-    "centroid_lng": 80.841885
+    "centroid_lng": 80.841885,
+    "population": 48565
   },
   {
     "region_id": "LK-72-Hingurakgoda",
     "region_name": "Hingurakgoda",
     "district_id": "LK-72",
     "centroid_lat": 8.108758,
-    "centroid_lng": 80.870878
+    "centroid_lng": 80.870878,
+    "population": 74862
   },
   {
     "region_id": "LK-72-Lankapura",
     "region_name": "Lankapura",
     "district_id": "LK-72",
     "centroid_lat": 8.057275,
-    "centroid_lng": 81.094879
+    "centroid_lng": 81.094879,
+    "population": 39673
   },
   {
     "region_id": "LK-72-Medirigiriya",
     "region_name": "Medirigiriya",
     "district_id": "LK-72",
     "centroid_lat": 8.184459,
-    "centroid_lng": 81.040259
+    "centroid_lng": 81.040259,
+    "population": 72482
   },
   {
     "region_id": "LK-72-Thamankaduwa",
     "region_name": "Thamankaduwa",
     "district_id": "LK-72",
     "centroid_lat": 7.875215,
-    "centroid_lng": 80.987135
+    "centroid_lng": 80.987135,
+    "population": 89110
   },
   {
     "region_id": "LK-72-Welikanda",
     "region_name": "Welikanda",
     "district_id": "LK-72",
     "centroid_lat": 8.042498,
-    "centroid_lng": 81.235006
+    "centroid_lng": 81.235006,
+    "population": 38196
   },
   {
     "region_id": "LK-81-Badulla",
     "region_name": "Badulla",
     "district_id": "LK-81",
     "centroid_lat": 6.986247,
-    "centroid_lng": 81.088834
+    "centroid_lng": 81.088834,
+    "population": 83033
   },
   {
     "region_id": "LK-81-Bandarawela",
     "region_name": "Bandarawela",
     "district_id": "LK-81",
     "centroid_lat": 6.82977,
-    "centroid_lng": 81.006434
+    "centroid_lng": 81.006434,
+    "population": 65488
   },
   {
     "region_id": "LK-81-Ella",
     "region_name": "Ella",
     "district_id": "LK-81",
     "centroid_lat": 6.867712,
-    "centroid_lng": 81.066455
+    "centroid_lng": 81.066455,
+    "population": 49439
   },
   {
     "region_id": "LK-81-Girandurukotte",
     "region_name": "Girandurukotte",
     "district_id": "LK-81",
     "centroid_lat": 7.486737,
-    "centroid_lng": 81.01052
+    "centroid_lng": 81.01052,
+    "population": 44979
   },
   {
     "region_id": "LK-81-Haldummulla",
     "region_name": "Haldummulla",
     "district_id": "LK-81",
     "centroid_lat": 6.700935,
-    "centroid_lng": 80.96479
+    "centroid_lng": 80.96479,
+    "population": 38778
   },
   {
     "region_id": "LK-81-Haliela",
     "region_name": "Haliela",
     "district_id": "LK-81",
     "centroid_lat": 6.945049,
-    "centroid_lng": 81.02014
+    "centroid_lng": 81.02014,
+    "population": 94792
   },
   {
     "region_id": "LK-81-Haputhale",
     "region_name": "Haputhale",
     "district_id": "LK-81",
     "centroid_lat": 6.792153,
-    "centroid_lng": 80.962818
+    "centroid_lng": 80.962818,
+    "population": 48280
   },
   {
     "region_id": "LK-81-Kandaketiya",
     "region_name": "Kandaketiya",
     "district_id": "LK-81",
     "centroid_lat": 7.130748,
-    "centroid_lng": 80.99405
+    "centroid_lng": 80.99405,
+    "population": 26347
   },
   {
     "region_id": "LK-81-Lunugala",
     "region_name": "Lunugala",
     "district_id": "LK-81",
     "centroid_lat": 7.038367,
-    "centroid_lng": 81.188116
+    "centroid_lng": 81.188116,
+    "population": 31234
   },
   {
     "region_id": "LK-81-Mahiyanganaya",
     "region_name": "Mahiyanganaya",
     "district_id": "LK-81",
     "centroid_lat": 7.419263,
-    "centroid_lng": 81.112174
+    "centroid_lng": 81.112174,
+    "population": 44103
   },
   {
     "region_id": "LK-81-Meegahakivula",
     "region_name": "Meegahakivula",
     "district_id": "LK-81",
     "centroid_lat": 7.125487,
-    "centroid_lng": 81.08322
+    "centroid_lng": 81.08322,
+    "population": 22683
   },
   {
     "region_id": "LK-81-Passara",
     "region_name": "Passara",
     "district_id": "LK-81",
     "centroid_lat": 6.965031,
-    "centroid_lng": 81.147909
+    "centroid_lng": 81.147909,
+    "population": 50283
   },
   {
     "region_id": "LK-81-Rideemaliyadda",
     "region_name": "Rideemaliyadda",
     "district_id": "LK-81",
     "centroid_lat": 7.273989,
-    "centroid_lng": 81.128769
+    "centroid_lng": 81.128769,
+    "population": 60882
   },
   {
     "region_id": "LK-81-Soranathota",
     "region_name": "Soranathota",
     "district_id": "LK-81",
     "centroid_lat": 7.045631,
-    "centroid_lng": 81.049514
+    "centroid_lng": 81.049514,
+    "population": 24407
   },
   {
     "region_id": "LK-81-Uva-Paranagama",
     "region_name": "Uva Paranagama",
     "district_id": "LK-81",
     "centroid_lat": 6.96657,
-    "centroid_lng": 80.917435
+    "centroid_lng": 80.917435,
+    "population": 82069
   },
   {
     "region_id": "LK-81-Welimada",
     "region_name": "Welimada",
     "district_id": "LK-81",
     "centroid_lat": 6.8601,
-    "centroid_lng": 80.880543
+    "centroid_lng": 80.880543,
+    "population": 105510
   },
   {
     "region_id": "LK-91-Ayagama",
     "region_name": "Ayagama",
     "district_id": "LK-91",
     "centroid_lat": 6.650941,
-    "centroid_lng": 80.29418
+    "centroid_lng": 80.29418,
+    "population": 31506
   },
   {
     "region_id": "LK-91-Balangoda",
     "region_name": "Balangoda",
     "district_id": "LK-91",
     "centroid_lat": 6.628803,
-    "centroid_lng": 80.765746
+    "centroid_lng": 80.765746,
+    "population": 88914
   },
   {
     "region_id": "LK-91-Eheliyagoda",
     "region_name": "Eheliyagoda",
     "district_id": "LK-91",
     "centroid_lat": 6.83734,
-    "centroid_lng": 80.227433
+    "centroid_lng": 80.227433,
+    "population": 74071
   },
   {
     "region_id": "LK-91-Elapatha",
     "region_name": "Elapatha",
     "district_id": "LK-91",
     "centroid_lat": 6.663587,
-    "centroid_lng": 80.356697
+    "centroid_lng": 80.356697,
+    "population": 36867
   },
   {
     "region_id": "LK-91-Embilipitiya",
     "region_name": "Embilipitiya",
     "district_id": "LK-91",
     "centroid_lat": 6.355809,
-    "centroid_lng": 80.811417
+    "centroid_lng": 80.811417,
+    "population": 159438
   },
   {
     "region_id": "LK-91-Godakawela",
     "region_name": "Godakawela",
     "district_id": "LK-91",
     "centroid_lat": 6.498438,
-    "centroid_lng": 80.642252
+    "centroid_lng": 80.642252,
+    "population": 81754
   },
   {
     "region_id": "LK-91-Imbulpe",
     "region_name": "Imbulpe",
     "district_id": "LK-91",
     "centroid_lat": 6.71489,
-    "centroid_lng": 80.738411
+    "centroid_lng": 80.738411,
+    "population": 64555
   },
   {
     "region_id": "LK-91-Kahawaththa",
     "region_name": "Kahawaththa",
     "district_id": "LK-91",
     "centroid_lat": 6.527798,
-    "centroid_lng": 80.545068
+    "centroid_lng": 80.545068,
+    "population": 42896
   },
   {
     "region_id": "LK-91-Kalawana",
     "region_name": "Kalawana",
     "district_id": "LK-91",
     "centroid_lat": 6.463156,
-    "centroid_lng": 80.453226
+    "centroid_lng": 80.453226,
+    "population": 50753
   },
   {
     "region_id": "LK-91-Kiriella",
     "region_name": "Kiriella",
     "district_id": "LK-91",
     "centroid_lat": 6.758098,
-    "centroid_lng": 80.274558
+    "centroid_lng": 80.274558,
+    "population": 33631
   },
   {
     "region_id": "LK-91-Kolonna",
     "region_name": "Kolonna",
     "district_id": "LK-91",
     "centroid_lat": 6.391425,
-    "centroid_lng": 80.676315
+    "centroid_lng": 80.676315,
+    "population": 48237
   },
   {
     "region_id": "LK-91-Kuruwita",
     "region_name": "Kuruwita",
     "district_id": "LK-91",
     "centroid_lat": 6.799049,
-    "centroid_lng": 80.355821
+    "centroid_lng": 80.355821,
+    "population": 97966
   },
   {
     "region_id": "LK-91-Nivithigala",
     "region_name": "Nivithigala",
     "district_id": "LK-91",
     "centroid_lat": 6.568985,
-    "centroid_lng": 80.456984
+    "centroid_lng": 80.456984,
+    "population": 59442
   },
   {
     "region_id": "LK-91-Opanayaka",
     "region_name": "Opanayaka",
     "district_id": "LK-91",
     "centroid_lat": 6.611682,
-    "centroid_lng": 80.624788
+    "centroid_lng": 80.624788,
+    "population": 25121
   },
   {
     "region_id": "LK-91-Pelmadulla",
     "region_name": "Pelmadulla",
     "district_id": "LK-91",
     "centroid_lat": 6.634683,
-    "centroid_lng": 80.509776
+    "centroid_lng": 80.509776,
+    "population": 93818
   },
   {
     "region_id": "LK-91-Ratnapura",
     "region_name": "Ratnapura",
     "district_id": "LK-91",
     "centroid_lat": 6.734624,
-    "centroid_lng": 80.489668
+    "centroid_lng": 80.489668,
+    "population": 78533
   },
   {
     "region_id": "LK-91-Ratnapura-Mc",
     "region_name": "Ratnapura-Mc",
     "district_id": "LK-91",
     "centroid_lat": 6.684016,
-    "centroid_lng": 80.417953
+    "centroid_lng": 80.417953,
+    "population": 42633
   },
   {
     "region_id": "LK-91-Weligepola",
     "region_name": "Weligepola",
     "district_id": "LK-91",
     "centroid_lat": 6.541303,
-    "centroid_lng": 80.743736
+    "centroid_lng": 80.743736,
+    "population": 35288
   },
   {
     "region_id": "LK-92-Aranayaka",
     "region_name": "Aranayaka",
     "district_id": "LK-92",
     "centroid_lat": 7.165233,
-    "centroid_lng": 80.444038
+    "centroid_lng": 80.444038,
+    "population": 68918
   },
   {
     "region_id": "LK-92-Bulathkohupitiya",
     "region_name": "Bulathkohupitiya",
     "district_id": "LK-92",
     "centroid_lat": 7.09734,
-    "centroid_lng": 80.358279
+    "centroid_lng": 80.358279,
+    "population": 45237
   },
   {
     "region_id": "LK-92-Dehiovita",
     "region_name": "Dehiovita",
     "district_id": "LK-92",
     "centroid_lat": 6.93881,
-    "centroid_lng": 80.281036
+    "centroid_lng": 80.281036,
+    "population": 84967
   },
   {
     "region_id": "LK-92-Deraniyagala",
     "region_name": "Deraniyagala",
     "district_id": "LK-92",
     "centroid_lat": 6.906824,
-    "centroid_lng": 80.402215
+    "centroid_lng": 80.402215,
+    "population": 44005
   },
   {
     "region_id": "LK-92-Galigamuwa",
     "region_name": "Galigamuwa",
     "district_id": "LK-92",
     "centroid_lat": 7.215596,
-    "centroid_lng": 80.305399
+    "centroid_lng": 80.305399,
+    "population": 73778
   },
   {
     "region_id": "LK-92-Kegalle",
     "region_name": "Kegalle",
     "district_id": "LK-92",
     "centroid_lat": 7.20812,
-    "centroid_lng": 80.368549
+    "centroid_lng": 80.368549,
+    "population": 95033
   },
   {
     "region_id": "LK-92-Mawanella",
     "region_name": "Mawanella",
     "district_id": "LK-92",
     "centroid_lat": 7.229889,
-    "centroid_lng": 80.473886
+    "centroid_lng": 80.473886,
+    "population": 126026
   },
   {
     "region_id": "LK-92-Rambukkana",
     "region_name": "Rambukkana",
     "district_id": "LK-92",
     "centroid_lat": 7.323094,
-    "centroid_lng": 80.386393
+    "centroid_lng": 80.386393,
+    "population": 87055
   },
   {
     "region_id": "LK-92-Ruwanwella",
     "region_name": "Ruwanwella",
     "district_id": "LK-92",
     "centroid_lat": 7.063706,
-    "centroid_lng": 80.218699
+    "centroid_lng": 80.218699,
+    "population": 65797
   },
   {
     "region_id": "LK-92-Warakapola",
     "region_name": "Warakapola",
     "district_id": "LK-92",
     "centroid_lat": 7.203689,
-    "centroid_lng": 80.231609
+    "centroid_lng": 80.231609,
+    "population": 117967
   },
   {
     "region_id": "LK-92-Yatiyanthota",
     "region_name": "Yatiyanthota",
     "district_id": "LK-92",
     "centroid_lat": 7.028338,
-    "centroid_lng": 80.369544
+    "centroid_lng": 80.369544,
+    "population": 62255
   },
   {
     "region_id": "None-Badalkumbura",
     "region_name": "Badalkumbura",
     "district_id": "None",
     "centroid_lat": 6.869996,
-    "centroid_lng": 81.216909
+    "centroid_lng": 81.216909,
+    "population": 46595
   },
   {
     "region_id": "None-Bibila",
     "region_name": "Bibila",
     "district_id": "None",
     "centroid_lat": 7.189265,
-    "centroid_lng": 81.296898
+    "centroid_lng": 81.296898,
+    "population": 47266
   },
   {
     "region_id": "None-Buttala",
     "region_name": "Buttala",
     "district_id": "None",
     "centroid_lat": 6.662513,
-    "centroid_lng": 81.296545
+    "centroid_lng": 81.296545,
+    "population": 60606
   },
   {
     "region_id": "None-Kataragama",
     "region_name": "Kataragama",
     "district_id": "None",
     "centroid_lat": 6.496256,
-    "centroid_lng": 81.393894
+    "centroid_lng": 81.393894,
+    "population": 18158
   },
   {
     "region_id": "None-Madulla",
     "region_name": "Madulla",
     "district_id": "None",
     "centroid_lat": 7.159405,
-    "centroid_lng": 81.429897
+    "centroid_lng": 81.429897,
+    "population": 36446
   },
   {
     "region_id": "None-Monaragala",
     "region_name": "Monaragala",
     "district_id": "None",
     "centroid_lat": 6.931444,
-    "centroid_lng": 81.327096
+    "centroid_lng": 81.327096,
+    "population": 101565
   },
   {
     "region_id": "None-Sevanagala",
     "region_name": "Sevanagala",
     "district_id": "None",
     "centroid_lat": 6.378146,
-    "centroid_lng": 80.933656
+    "centroid_lng": 80.933656,
+    "population": 49376
   },
   {
     "region_id": "None-Siyambalanduwa",
     "region_name": "Siyambalanduwa",
     "district_id": "None",
     "centroid_lat": 6.851006,
-    "centroid_lng": 81.526668
+    "centroid_lng": 81.526668,
+    "population": 63055
   },
   {
     "region_id": "None-Thanamalwila",
     "region_name": "Thanamalwila",
     "district_id": "None",
     "centroid_lat": 6.495955,
-    "centroid_lng": 81.001728
+    "centroid_lng": 81.001728,
+    "population": 31238
   },
   {
     "region_id": "None-Wellawaya",
     "region_name": "Wellawaya",
     "district_id": "None",
     "centroid_lat": 6.6128,
-    "centroid_lng": 81.123399
+    "centroid_lng": 81.123399,
+    "population": 73280
   }
 ]
